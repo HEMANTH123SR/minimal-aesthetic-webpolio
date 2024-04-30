@@ -4623,6 +4623,100 @@ export const linkedinData = [
       en: " React Native wizard crafting seamless “Cross Platform“ apps. Passionate about pixel-perfect UIs, blazing-fast performance, and user-centric design. Let's build something amazing together! ",
     },
   },
+  {
+    urn: "ACoAADPe3LUByQD1cQAnB0v4PNNh2en9K9GL5gQ",
+    username: "harsha-k-divate-185539203",
+    firstName: "Harsha K",
+    lastName: "Divate",
+    isOpenToWork: false,
+    isHiring: false,
+    profilePicture: "",
+    summary: "",
+    headline: "Student",
+    geo: {
+      country: "India",
+      city: "Bengaluru, Karnataka",
+      full: "Bengaluru, Karnataka, India",
+    },
+    languages: null,
+    educations: [
+      {
+        start: {
+          year: 2022,
+          month: 6,
+          day: 0,
+        },
+        end: {
+          year: 2025,
+          month: 12,
+          day: 0,
+        },
+        fieldOfStudy: "Computer Science And Applications ",
+        degree: "Bachelor Of Computer Applications ",
+        grade: "",
+        schoolName: "REVA University",
+        description: "",
+        activities: "",
+        url: "https://www.linkedin.com/school/reva-university/",
+        schoolId: "9415817",
+      },
+    ],
+    position: null,
+    fullPositions: null,
+    skills: [
+      {
+        name: "Hardware",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Help Desk Support",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Process Improvement",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "English",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "SharePoint",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Cyber Threat Intelligence (CTI)",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Data Analytics",
+        passedSkillAssessment: false,
+      },
+    ],
+    givenRecommendation: null,
+    givenRecommendationCount: 0,
+    receivedRecommendation: null,
+    receivedRecommendationCount: 0,
+    courses: null,
+    certifications: null,
+    honors: null,
+    volunteering: null,
+    supportedLocales: [
+      {
+        country: "US",
+        language: "en",
+      },
+    ],
+    multiLocaleFirstName: {
+      en: "Harsha K",
+    },
+    multiLocaleLastName: {
+      en: "Divate",
+    },
+    multiLocaleHeadline: {
+      en: "Student",
+    },
+  },
 ];
 
 // hemanth 0
@@ -4637,3 +4731,4 @@ export const linkedinData = [
 // ridha 9
 // vu bushra (entr) 10
 // gyanshu 11
+// harsha
