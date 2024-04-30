@@ -525,16 +525,17 @@ export const linkedinData = [
     },
   },
   {
-    urn: "ACoAADyZBm4BqkuMOm4C8bUdhz9uRwiyickqIO0",
-    username: "rida-fathima-a12589244",
-    firstName: "Rida",
-    lastName: "Fathima",
+    urn: "ACoAAEEN0dUBz_El9tIhDomcrXzNAlezdW0sIlA",
+    username: "gowtham-b-s-645623265",
+    firstName: "Gowtham",
+    lastName: "B S",
     isOpenToWork: false,
     isHiring: false,
     profilePicture:
-      "https://media.licdn.com/dms/image/D5603AQFoZLjCwITAfA/profile-displayphoto-shrink_800_800/0/1698221495828?e=1719446400&v=beta&t=NPc6OheG9QLPK0qmH7Ruc4_ISoqeM9dd7GVxe51bwlc",
+      "https://media.licdn.com/dms/image/D5603AQH9Nc4dIeKxMA/profile-displayphoto-shrink_800_800/0/1697648528219?e=1720051200&v=beta&t=Bt5yyFyDHckFNpGpl4L3HSwdRV6Vq-Xk1YGEkwDKVt8",
     summary: "",
-    headline: "Curious Learner",
+    headline:
+      "Passionate Engineering Student Eager to Embrace Emerging Technologies",
     geo: {
       country: "India",
       city: "Bengaluru, Karnataka",
@@ -545,16 +546,17 @@ export const linkedinData = [
       {
         start: {
           year: 2022,
-          month: 8,
+          month: 11,
           day: 0,
         },
         end: {
-          year: 2025,
-          month: 8,
+          year: 2026,
+          month: 11,
           day: 0,
         },
-        fieldOfStudy: "Computer Software and Media Applications",
-        degree: "Bachelor's degree",
+        fieldOfStudy:
+          "CSE (IOT Cybersecurity including  Block chain technology) ",
+        degree: "Bachelor of Technology - BTech",
         grade: "",
         schoolName: "REVA University",
         description: "",
@@ -562,87 +564,71 @@ export const linkedinData = [
         url: "https://www.linkedin.com/school/reva-university/",
         schoolId: "9415817",
       },
+      {
+        start: {
+          year: 2019,
+          month: 5,
+          day: 0,
+        },
+        end: {
+          year: 2021,
+          month: 7,
+          day: 0,
+        },
+        fieldOfStudy: "Science",
+        degree: "PUE",
+        grade: "93.5%",
+        schoolName:
+          "St. Francis DeSales Pre-University college -Tamaka, Kolar (563103)",
+        description: "",
+        activities: "",
+        url: "",
+        schoolId: "",
+      },
+      {
+        start: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        end: {
+          year: 2019,
+          month: 4,
+          day: 0,
+        },
+        fieldOfStudy: "",
+        degree: "SSLC",
+        grade: "90.4%",
+        schoolName: "Vidya Samskruthi international School - T.Gollahalli",
+        description: "",
+        activities: "",
+        url: "",
+        schoolId: "",
+      },
     ],
     position: [
       {
-        companyName: "WTM REVA",
-        companyUsername: "wtm-reva",
-        companyURL: "https://www.linkedin.com/company/wtm-reva/",
+        companyName: "OSCode",
+        companyUsername: "oscode",
+        companyURL: "https://www.linkedin.com/company/oscode/",
         companyLogo:
-          "https://media.licdn.com/dms/image/D560BAQEyGDZcARZwRg/company-logo_400_400/0/1706386342129/wtm_reva_logo?e=1722470400&v=beta&t=kIsBZF3CnqXnQxJ21Ii9nTYQ6iM2efuKAfaCE3hJVSQ",
-        companyIndustry: "Computer Software",
+          "https://media.licdn.com/dms/image/C560BAQEYKJcT2CI0sA/company-logo_400_400/0/1649310777141?e=1722470400&v=beta&t=fxeKAbcOwWnd76zr0C_93RRZiJF-8KYNhE6gRhzswWc",
+        companyIndustry: "Higher Education",
         companyStaffCountRange: "11 - 50",
-        title: "Design Team Lead",
+        title: "Technical Team Member",
         multiLocaleTitle: {
-          en_US: "Design Team Lead",
+          en_US: "Technical Team Member",
         },
         multiLocaleCompanyName: {
-          en_US: "WTM REVA",
+          en_US: "OSCode",
         },
-        location: "",
-        description: "",
-        employmentType: "",
-        start: {
-          year: 2024,
-          month: 1,
-          day: 0,
-        },
-        end: {
-          year: 0,
-          month: 0,
-          day: 0,
-        },
-      },
-      {
-        companyName: "Dev/Track",
-        companyUsername: "dev-track",
-        companyURL: "https://www.linkedin.com/company/dev-track/",
-        companyLogo:
-          "https://media.licdn.com/dms/image/D560BAQHEzm8xrywUIg/company-logo_400_400/0/1662306901995/dev_track_logo?e=1722470400&v=beta&t=DbnN8WPxVilE-MFDbQ5gOmPHu1mzb1RiS5FQN7S-xy8",
-        companyIndustry: "E-learning",
-        companyStaffCountRange: "11 - 50",
-        title: "Member",
-        multiLocaleTitle: {
-          en_US: "Member",
-        },
-        multiLocaleCompanyName: {
-          en_US: "Dev/Track",
-        },
-        location: "",
-        description: "",
-        employmentType: "",
-        start: {
-          year: 2023,
-          month: 9,
-          day: 0,
-        },
-        end: {
-          year: 0,
-          month: 0,
-          day: 0,
-        },
-      },
-      {
-        companyName: "REVA HACK </> 2023",
-        companyUsername: "reva-hack-2022",
-        companyURL: "https://www.linkedin.com/company/reva-hack-2022/",
-        companyLogo:
-          "https://media.licdn.com/dms/image/D4D0BAQHK2j2lGpoosg/company-logo_400_400/0/1693836648417/reva_hack_2022_logo?e=1722470400&v=beta&t=jpG8_ci4_wg-hsPxYmUVldutwHChHx-wAHO9jjnogI8",
-        companyIndustry: "E-learning",
-        companyStaffCountRange: "201 - 500",
-        title: "Organizing team member",
-        multiLocaleTitle: {
-          en_US: "Organizing team member",
-        },
-        multiLocaleCompanyName: {
-          en_US: "REVA HACK </> 2023",
-        },
-        location: "Bangalore Urban, Karnataka, India",
-        description: "",
+        location: "Bengaluru, Karnataka, India",
+        description:
+          "I am proud to contribute to the growth and success of our community, fostering a culture of innovation and sharing knowledge.",
         employmentType: "Part-time",
         start: {
           year: 2023,
-          month: 8,
+          month: 10,
           day: 0,
         },
         end: {
@@ -652,115 +638,58 @@ export const linkedinData = [
         },
       },
       {
-        companyName: "SecIQ Technologies LLP",
-        companyUsername: "sec-iq",
-        companyURL: "https://www.linkedin.com/company/sec-iq/",
+        companyName: "Move Developers DAO",
+        companyUsername: "move-developers-dao",
+        companyURL: "https://www.linkedin.com/company/move-developers-dao/",
         companyLogo:
-          "https://media.licdn.com/dms/image/C560BAQEnzhfn4WYCng/company-logo_400_400/0/1630663694946/sec_iq_logo?e=1722470400&v=beta&t=vI0-AuefIWVUKCbNa5mu0qjcA_e_HSo-_pNAAVbu8tU",
+          "https://media.licdn.com/dms/image/C560BAQFJdbO01WEMyw/company-logo_400_400/0/1675607086536?e=1722470400&v=beta&t=tctOjZH9Y0Nrgxd1ppD_j1Kwar3rni7REu75g-m-ZrE",
         companyIndustry: "Information Technology & Services",
-        companyStaffCountRange: "11 - 50",
-        title: "Operations and Marketing ",
+        companyStaffCountRange: "2 - 10",
+        title: "Campus Ambassador",
         multiLocaleTitle: {
-          en_US: "Operations and Marketing ",
+          en_US: "Campus Ambassador",
         },
         multiLocaleCompanyName: {
-          en_US: "SecIQ Technologies LLP",
+          en_US: "Move Developers DAO",
         },
         location: "Bengaluru, Karnataka, India",
         description: "",
-        employmentType: "Internship",
+        employmentType: "Full-time",
         start: {
-          year: 2022,
-          month: 11,
+          year: 2023,
+          month: 4,
           day: 0,
         },
         end: {
-          year: 2023,
-          month: 3,
+          year: 0,
+          month: 0,
           day: 0,
         },
       },
     ],
     fullPositions: [
       {
-        companyName: "WTM REVA",
-        companyUsername: "wtm-reva",
-        companyURL: "https://www.linkedin.com/company/wtm-reva/",
+        companyName: "OSCode",
+        companyUsername: "oscode",
+        companyURL: "https://www.linkedin.com/company/oscode/",
         companyLogo:
-          "https://media.licdn.com/dms/image/D560BAQEyGDZcARZwRg/company-logo_400_400/0/1706386342129/wtm_reva_logo?e=1722470400&v=beta&t=kIsBZF3CnqXnQxJ21Ii9nTYQ6iM2efuKAfaCE3hJVSQ",
-        companyIndustry: "Computer Software",
+          "https://media.licdn.com/dms/image/C560BAQEYKJcT2CI0sA/company-logo_400_400/0/1649310777141?e=1722470400&v=beta&t=fxeKAbcOwWnd76zr0C_93RRZiJF-8KYNhE6gRhzswWc",
+        companyIndustry: "Higher Education",
         companyStaffCountRange: "11 - 50",
-        title: "Design Team Lead",
+        title: "Technical Team Member",
         multiLocaleTitle: {
-          en_US: "Design Team Lead",
+          en_US: "Technical Team Member",
         },
         multiLocaleCompanyName: {
-          en_US: "WTM REVA",
+          en_US: "OSCode",
         },
-        location: "",
-        description: "",
-        employmentType: "",
-        start: {
-          year: 2024,
-          month: 1,
-          day: 0,
-        },
-        end: {
-          year: 0,
-          month: 0,
-          day: 0,
-        },
-      },
-      {
-        companyName: "Dev/Track",
-        companyUsername: "dev-track",
-        companyURL: "https://www.linkedin.com/company/dev-track/",
-        companyLogo:
-          "https://media.licdn.com/dms/image/D560BAQHEzm8xrywUIg/company-logo_400_400/0/1662306901995/dev_track_logo?e=1722470400&v=beta&t=DbnN8WPxVilE-MFDbQ5gOmPHu1mzb1RiS5FQN7S-xy8",
-        companyIndustry: "E-learning",
-        companyStaffCountRange: "11 - 50",
-        title: "Member",
-        multiLocaleTitle: {
-          en_US: "Member",
-        },
-        multiLocaleCompanyName: {
-          en_US: "Dev/Track",
-        },
-        location: "",
-        description: "",
-        employmentType: "",
-        start: {
-          year: 2023,
-          month: 9,
-          day: 0,
-        },
-        end: {
-          year: 0,
-          month: 0,
-          day: 0,
-        },
-      },
-      {
-        companyName: "REVA HACK </> 2023",
-        companyUsername: "reva-hack-2022",
-        companyURL: "https://www.linkedin.com/company/reva-hack-2022/",
-        companyLogo:
-          "https://media.licdn.com/dms/image/D4D0BAQHK2j2lGpoosg/company-logo_400_400/0/1693836648417/reva_hack_2022_logo?e=1722470400&v=beta&t=jpG8_ci4_wg-hsPxYmUVldutwHChHx-wAHO9jjnogI8",
-        companyIndustry: "E-learning",
-        companyStaffCountRange: "201 - 500",
-        title: "Organizing team member",
-        multiLocaleTitle: {
-          en_US: "Organizing team member",
-        },
-        multiLocaleCompanyName: {
-          en_US: "REVA HACK </> 2023",
-        },
-        location: "Bangalore Urban, Karnataka, India",
-        description: "",
+        location: "Bengaluru, Karnataka, India",
+        description:
+          "I am proud to contribute to the growth and success of our community, fostering a culture of innovation and sharing knowledge.",
         employmentType: "Part-time",
         start: {
           year: 2023,
-          month: 8,
+          month: 10,
           day: 0,
         },
         end: {
@@ -770,40 +699,47 @@ export const linkedinData = [
         },
       },
       {
-        companyName: "SecIQ Technologies LLP",
-        companyUsername: "sec-iq",
-        companyURL: "https://www.linkedin.com/company/sec-iq/",
+        companyName: "Move Developers DAO",
+        companyUsername: "move-developers-dao",
+        companyURL: "https://www.linkedin.com/company/move-developers-dao/",
         companyLogo:
-          "https://media.licdn.com/dms/image/C560BAQEnzhfn4WYCng/company-logo_400_400/0/1630663694946/sec_iq_logo?e=1722470400&v=beta&t=vI0-AuefIWVUKCbNa5mu0qjcA_e_HSo-_pNAAVbu8tU",
+          "https://media.licdn.com/dms/image/C560BAQFJdbO01WEMyw/company-logo_400_400/0/1675607086536?e=1722470400&v=beta&t=tctOjZH9Y0Nrgxd1ppD_j1Kwar3rni7REu75g-m-ZrE",
         companyIndustry: "Information Technology & Services",
-        companyStaffCountRange: "11 - 50",
-        title: "Operations and Marketing ",
+        companyStaffCountRange: "2 - 10",
+        title: "Campus Ambassador",
         multiLocaleTitle: {
-          en_US: "Operations and Marketing ",
+          en_US: "Campus Ambassador",
         },
         multiLocaleCompanyName: {
-          en_US: "SecIQ Technologies LLP",
+          en_US: "Move Developers DAO",
         },
         location: "Bengaluru, Karnataka, India",
         description: "",
-        employmentType: "Internship",
+        employmentType: "Full-time",
         start: {
-          year: 2022,
-          month: 11,
+          year: 2023,
+          month: 4,
           day: 0,
         },
         end: {
-          year: 2023,
-          month: 3,
+          year: 0,
+          month: 0,
           day: 0,
         },
       },
     ],
     skills: [
       {
-        name: "Communication",
+        name: "Team Building",
         passedSkillAssessment: false,
-        endorsementsCount: 3,
+      },
+      {
+        name: "Technical Support",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Web3",
+        passedSkillAssessment: false,
       },
     ],
     givenRecommendation: null,
@@ -813,10 +749,10 @@ export const linkedinData = [
     courses: null,
     certifications: [
       {
-        name: "Cyber security level 1",
+        name: "G20 Yuvamanthan",
         start: {
-          year: 2022,
-          month: 12,
+          year: 2023,
+          month: 8,
           day: 0,
         },
         end: {
@@ -824,11 +760,112 @@ export const linkedinData = [
           month: 0,
           day: 0,
         },
-        authority: "EthicalByte",
+        authority: "G20 India",
         company: {
-          name: "EthicalByte",
-          universalName: "ethicalbyte",
-          logo: "https://media.licdn.com/dms/image/C560BAQFSOpEGrRtmkQ/company-logo_200_200/0/1643867513104/ethicalbyte_logo?e=1722470400&v=beta&t=xa-VwD-8jdJykPZOXn9gArAd4f8NMH3f4dlKz1Uzm6c",
+          name: "G20 India",
+          universalName: "g20-india",
+          logo: "https://media.licdn.com/dms/image/C4D0BAQGkbvANvA0RVA/company-logo_200_200/0/1670999128173?e=1722470400&v=beta&t=VBetha5SHNQSkGM7WTjeA_bsT7eAc2_MqXrFCLn2jvE",
+          staffCountRange: {},
+          headquarter: {},
+        },
+        timePeriod: {
+          start: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+          end: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+        },
+      },
+      {
+        name: "Geospatial Technology for Climate Smart Agriculture",
+        start: {
+          year: 2023,
+          month: 8,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        authority:
+          "Indian Institute of Remote Sensing (IIRS), Indian Space Research Organization (ISRO)",
+        company: {
+          name: "Indian Institute of Remote Sensing (IIRS), Indian Space Research Organization (ISRO)",
+          universalName:
+            "indianinstituteofremotesensingiirsindianspaceresearchorganizationisro",
+          logo: "https://media.licdn.com/dms/image/C4D0BAQFAvy0KqPRfig/company-logo_200_200/0/1631312209996?e=1722470400&v=beta&t=I4-lMA22Oj7UcrRf0wRcTL5jHZqj6hzzoUkF1Aw5Vts",
+          staffCountRange: {},
+          headquarter: {},
+        },
+        timePeriod: {
+          start: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+          end: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+        },
+      },
+      {
+        name: "Cybersecurity Fundamentals",
+        start: {
+          year: 2023,
+          month: 7,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        authority: "IBM",
+        company: {
+          name: "IBM",
+          universalName: "ibm",
+          logo: "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_200_200/0/1688684715866/ibm_logo?e=1722470400&v=beta&t=gSNKGuAm3sM55v2yjyykGTL8i-nILJqUP70C7rIeiIw",
+          staffCountRange: {},
+          headquarter: {},
+        },
+        timePeriod: {
+          start: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+          end: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+        },
+      },
+      {
+        name: "Flipkart Ads - E-Commerce Fundamentals Certified",
+        start: {
+          year: 2023,
+          month: 7,
+          day: 0,
+        },
+        end: {
+          year: 2024,
+          month: 7,
+          day: 0,
+        },
+        authority: "Flipkart Ads",
+        company: {
+          name: "Flipkart Ads",
+          universalName: "flipkart-ads",
+          logo: "https://media.licdn.com/dms/image/C4D0BAQHL9MALVqwOmg/company-logo_200_200/0/1631300603558?e=1722470400&v=beta&t=9R5PcrelvqnDQPF5phVPrqb4_zJ5GzsFb9VI05JRWo8",
           staffCountRange: {},
           headquarter: {},
         },
@@ -855,13 +892,13 @@ export const linkedinData = [
       },
     ],
     multiLocaleFirstName: {
-      en: "Rida",
+      en: "Gowtham",
     },
     multiLocaleLastName: {
-      en: "Fathima",
+      en: "B S",
     },
     multiLocaleHeadline: {
-      en: "Curious Learner",
+      en: "Passionate Engineering Student Eager to Embrace Emerging Technologies",
     },
   },
   {
@@ -2474,12 +2511,2130 @@ export const linkedinData = [
       en: "Tech Enthusiast ",
     },
   },
+  {
+    urn: "ACoAACCAK1kBduNMfo28LCi0Kac5Lj0_MVsZZ_k",
+    username: "mohana-s-b-16173a132",
+    firstName: "Mohana",
+    lastName: "S B",
+    isOpenToWork: false,
+    isHiring: false,
+    profilePicture:
+      "https://media.licdn.com/dms/image/C5103AQFB8n8n5RDo8g/profile-displayphoto-shrink_800_800/0/1552719302201?e=1720051200&v=beta&t=s4YlQO4lldandLYtEjJRW6JReDkgWIEhwgVxb56qzxk",
+    summary:
+      "Having 11 years experience in RTR reporting...\nI done MBA in Finance, Currently working for DIAGEO as RTR Specialist in General ledger  Reporting  Balance sheet reconciliation Month end activities Journals",
+    headline: "Specialist FC at Diageo",
+    geo: {
+      country: "India",
+      city: "Bengaluru, Karnataka",
+      full: "Bengaluru, Karnataka, India",
+    },
+    languages: null,
+    educations: [
+      {
+        start: {
+          year: 2009,
+          month: 0,
+          day: 0,
+        },
+        end: {
+          year: 2011,
+          month: 0,
+          day: 0,
+        },
+        fieldOfStudy: "Accounting and Finance",
+        degree: "Master of Business Administration (M.B.A.)",
+        grade: "",
+        schoolName: "Visvesvaraya Technological University",
+        description: "",
+        activities: "",
+        url: "https://www.linkedin.com/school/visvesvaraya-technological-university/",
+        schoolId: "8680105",
+      },
+      {
+        start: {
+          year: 2006,
+          month: 0,
+          day: 0,
+        },
+        end: {
+          year: 2009,
+          month: 0,
+          day: 0,
+        },
+        fieldOfStudy: "Accounting and Business/Management",
+        degree: "Bacholer of Business Management",
+        grade: "",
+        schoolName: "Bangalore University",
+        description: "",
+        activities: "",
+        url: "https://www.linkedin.com/school/bangalore-university/",
+        schoolId: "1461117",
+      },
+    ],
+    position: [
+      {
+        companyName: "Diageo",
+        companyUsername: "diageo",
+        companyURL: "https://www.linkedin.com/company/diageo/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/D4E0BAQGsTOqv8kvX_Q/company-logo_400_400/0/1701422230739/diageo_logo?e=1722470400&v=beta&t=1g6Eh2Exdg4_VFJsNF9rQmi9TN8z3J4dJxfJHXb43UU",
+        companyIndustry: "Wine & Spirits",
+        companyStaffCountRange: "10001 - 0",
+        title: "Specialist FC",
+        multiLocaleTitle: {
+          en_US: "Specialist FC",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Diageo",
+        },
+        location: "Bengaluru, Karnataka, India",
+        description: "",
+        employmentType: "Full-time",
+        start: {
+          year: 2023,
+          month: 5,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+      },
+      {
+        companyName: "Diageo",
+        companyUsername: "diageo",
+        companyURL: "https://www.linkedin.com/company/diageo/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/D4E0BAQGsTOqv8kvX_Q/company-logo_400_400/0/1701422230739/diageo_logo?e=1722470400&v=beta&t=1g6Eh2Exdg4_VFJsNF9rQmi9TN8z3J4dJxfJHXb43UU",
+        companyIndustry: "Wine & Spirits",
+        companyStaffCountRange: "10001 - 0",
+        title: "RTR Specialist",
+        multiLocaleTitle: {
+          en_US: "RTR Specialist",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Diageo",
+        },
+        location: "Bangalore",
+        description: "",
+        employmentType: "Full-time",
+        start: {
+          year: 2017,
+          month: 1,
+          day: 0,
+        },
+        end: {
+          year: 2023,
+          month: 5,
+          day: 0,
+        },
+      },
+      {
+        companyName: "Hewlett Packard Enterprise",
+        companyUsername: "hewlett-packard-enterprise",
+        companyURL:
+          "https://www.linkedin.com/company/hewlett-packard-enterprise/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C4E0BAQH6qdm7VJ5BPA/company-logo_400_400/0/1630642519868/hewlett_packard_enterprise_logo?e=1722470400&v=beta&t=cJmI463XKjckPmMgMa5Zn0Gw2JOe3_s95_aNNKF5BJk",
+        companyIndustry: "Information Technology & Services",
+        companyStaffCountRange: "10001 - 0",
+        title: "Senior Process Associate",
+        multiLocaleTitle: {
+          en_US: "Senior Process Associate",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Hewlett Packard Enterprise",
+        },
+        location: "Bangalore",
+        description: "",
+        employmentType: "",
+        start: {
+          year: 2015,
+          month: 1,
+          day: 0,
+        },
+        end: {
+          year: 2017,
+          month: 1,
+          day: 0,
+        },
+      },
+      {
+        companyName: "IBM India Private Limited",
+        companyUsername: "ibm",
+        companyURL: "https://www.linkedin.com/company/ibm/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_400_400/0/1688684715866/ibm_logo?e=1722470400&v=beta&t=2U36qrTyE2yvdm4IubsBT2hcAF-DeOaDBm-LChNBLoo",
+        companyIndustry: "Information Technology & Services",
+        companyStaffCountRange: "10001 - 0",
+        title: "Practitioner in F&A",
+        multiLocaleTitle: {
+          en_US: "Practitioner in F&A",
+        },
+        multiLocaleCompanyName: {
+          en_US: "IBM India Private Limited",
+        },
+        location: "Bengaluru, Karnataka, India",
+        description: "",
+        employmentType: "",
+        start: {
+          year: 2011,
+          month: 12,
+          day: 0,
+        },
+        end: {
+          year: 2014,
+          month: 12,
+          day: 0,
+        },
+      },
+    ],
+    fullPositions: [
+      {
+        companyName: "Diageo",
+        companyUsername: "diageo",
+        companyURL: "https://www.linkedin.com/company/diageo/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/D4E0BAQGsTOqv8kvX_Q/company-logo_400_400/0/1701422230739/diageo_logo?e=1722470400&v=beta&t=1g6Eh2Exdg4_VFJsNF9rQmi9TN8z3J4dJxfJHXb43UU",
+        companyIndustry: "Wine & Spirits",
+        companyStaffCountRange: "10001 - 0",
+        title: "Specialist FC",
+        multiLocaleTitle: {
+          en_US: "Specialist FC",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Diageo",
+        },
+        location: "Bengaluru, Karnataka, India",
+        description: "",
+        employmentType: "Full-time",
+        start: {
+          year: 2023,
+          month: 5,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+      },
+      {
+        companyName: "Diageo",
+        companyUsername: "diageo",
+        companyURL: "https://www.linkedin.com/company/diageo/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/D4E0BAQGsTOqv8kvX_Q/company-logo_400_400/0/1701422230739/diageo_logo?e=1722470400&v=beta&t=1g6Eh2Exdg4_VFJsNF9rQmi9TN8z3J4dJxfJHXb43UU",
+        companyIndustry: "Wine & Spirits",
+        companyStaffCountRange: "10001 - 0",
+        title: "RTR Specialist",
+        multiLocaleTitle: {
+          en_US: "RTR Specialist",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Diageo",
+        },
+        location: "Bangalore",
+        description: "",
+        employmentType: "Full-time",
+        start: {
+          year: 2017,
+          month: 1,
+          day: 0,
+        },
+        end: {
+          year: 2023,
+          month: 5,
+          day: 0,
+        },
+      },
+      {
+        companyName: "Hewlett Packard Enterprise",
+        companyUsername: "hewlett-packard-enterprise",
+        companyURL:
+          "https://www.linkedin.com/company/hewlett-packard-enterprise/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C4E0BAQH6qdm7VJ5BPA/company-logo_400_400/0/1630642519868/hewlett_packard_enterprise_logo?e=1722470400&v=beta&t=cJmI463XKjckPmMgMa5Zn0Gw2JOe3_s95_aNNKF5BJk",
+        companyIndustry: "Information Technology & Services",
+        companyStaffCountRange: "10001 - 0",
+        title: "Senior Process Associate",
+        multiLocaleTitle: {
+          en_US: "Senior Process Associate",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Hewlett Packard Enterprise",
+        },
+        location: "Bangalore",
+        description: "",
+        employmentType: "",
+        start: {
+          year: 2015,
+          month: 1,
+          day: 0,
+        },
+        end: {
+          year: 2017,
+          month: 1,
+          day: 0,
+        },
+      },
+      {
+        companyName: "IBM India Private Limited",
+        companyUsername: "ibm",
+        companyURL: "https://www.linkedin.com/company/ibm/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_400_400/0/1688684715866/ibm_logo?e=1722470400&v=beta&t=2U36qrTyE2yvdm4IubsBT2hcAF-DeOaDBm-LChNBLoo",
+        companyIndustry: "Information Technology & Services",
+        companyStaffCountRange: "10001 - 0",
+        title: "Practitioner in F&A",
+        multiLocaleTitle: {
+          en_US: "Practitioner in F&A",
+        },
+        multiLocaleCompanyName: {
+          en_US: "IBM India Private Limited",
+        },
+        location: "Bengaluru, Karnataka, India",
+        description: "",
+        employmentType: "",
+        start: {
+          year: 2011,
+          month: 12,
+          day: 0,
+        },
+        end: {
+          year: 2014,
+          month: 12,
+          day: 0,
+        },
+      },
+    ],
+    skills: [
+      {
+        name: "Accounting",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "SAP ERP",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Analytical Skills",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Microsoft Excel",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "General Ledger",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Intercompany Accounts",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Fixed Assets",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Account Reconciliation",
+        passedSkillAssessment: false,
+      },
+    ],
+    givenRecommendation: null,
+    givenRecommendationCount: 0,
+    receivedRecommendation: null,
+    receivedRecommendationCount: 0,
+    courses: null,
+    certifications: null,
+    honors: null,
+    volunteering: null,
+    supportedLocales: [
+      {
+        country: "US",
+        language: "en",
+      },
+    ],
+    multiLocaleFirstName: {
+      en: "Mohana",
+    },
+    multiLocaleLastName: {
+      en: "S B",
+    },
+    multiLocaleHeadline: {
+      en: "Specialist FC at Diageo",
+    },
+  },
+  {
+    urn: "ACoAAEB21LIBZA4DEQbUi0lwMBr93pKmqB8KXgg",
+    username: "meghana-jalli-182251262",
+    firstName: "Meghana",
+    lastName: "Jalli",
+    isOpenToWork: false,
+    isHiring: false,
+    profilePicture:
+      "https://media.licdn.com/dms/image/D5603AQF72_PRq68HWw/profile-displayphoto-shrink_800_800/0/1713765487932?e=1720051200&v=beta&t=doYNt0gZwsJYXx9SKVLngQEL8WwhiS3w_mTG3KjAWzc",
+    summary: "",
+    headline: "Attended REVA University",
+    geo: {
+      country: "India",
+      city: "Bengaluru, Karnataka",
+      full: "Bengaluru, Karnataka, India",
+    },
+    languages: null,
+    educations: [
+      {
+        start: {
+          year: 2022,
+          month: 7,
+          day: 0,
+        },
+        end: {
+          year: 2025,
+          month: 5,
+          day: 0,
+        },
+        fieldOfStudy: "Computer Science",
+        degree: "BCA",
+        grade: "8.74/10",
+        schoolName: "REVA University",
+        description: "",
+        activities: "",
+        url: "https://www.linkedin.com/school/reva-university/",
+        schoolId: "9415817",
+      },
+      {
+        start: {
+          year: 2022,
+          month: 0,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        fieldOfStudy: "Computer Science",
+        degree: "BCA",
+        grade: "",
+        schoolName: "REVA University",
+        description: "",
+        activities: "",
+        url: "https://www.linkedin.com/school/reva-university/",
+        schoolId: "9415817",
+      },
+    ],
+    position: null,
+    fullPositions: null,
+    skills: [
+      {
+        name: "Python (Programming Language)",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "C (Programming Language)",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Java",
+        passedSkillAssessment: false,
+      },
+    ],
+    givenRecommendation: null,
+    givenRecommendationCount: 0,
+    receivedRecommendation: null,
+    receivedRecommendationCount: 0,
+    courses: null,
+    certifications: null,
+    honors: null,
+    volunteering: null,
+    supportedLocales: [
+      {
+        country: "US",
+        language: "en",
+      },
+    ],
+    multiLocaleFirstName: {
+      en: "Meghana",
+    },
+    multiLocaleLastName: {
+      en: "Jalli",
+    },
+    multiLocaleHeadline: {
+      en: "Attended REVA University",
+    },
+  },
+
+  {
+    urn: "ACoAADyZBm4BqkuMOm4C8bUdhz9uRwiyickqIO0",
+    username: "rida-fathima-a12589244",
+    firstName: "Rida",
+    lastName: "Fathima",
+    isOpenToWork: false,
+    isHiring: false,
+    profilePicture:
+      "https://media.licdn.com/dms/image/D5603AQFoZLjCwITAfA/profile-displayphoto-shrink_800_800/0/1698221495828?e=1719446400&v=beta&t=NPc6OheG9QLPK0qmH7Ruc4_ISoqeM9dd7GVxe51bwlc",
+    summary: "",
+    headline: "Curious Learner",
+    geo: {
+      country: "India",
+      city: "Bengaluru, Karnataka",
+      full: "Bengaluru, Karnataka, India",
+    },
+    languages: null,
+    educations: [
+      {
+        start: {
+          year: 2022,
+          month: 8,
+          day: 0,
+        },
+        end: {
+          year: 2025,
+          month: 8,
+          day: 0,
+        },
+        fieldOfStudy: "Computer Software and Media Applications",
+        degree: "Bachelor's degree",
+        grade: "",
+        schoolName: "REVA University",
+        description: "",
+        activities: "",
+        url: "https://www.linkedin.com/school/reva-university/",
+        schoolId: "9415817",
+      },
+    ],
+    position: [
+      {
+        companyName: "WTM REVA",
+        companyUsername: "wtm-reva",
+        companyURL: "https://www.linkedin.com/company/wtm-reva/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/D560BAQEyGDZcARZwRg/company-logo_400_400/0/1706386342129/wtm_reva_logo?e=1722470400&v=beta&t=kIsBZF3CnqXnQxJ21Ii9nTYQ6iM2efuKAfaCE3hJVSQ",
+        companyIndustry: "Computer Software",
+        companyStaffCountRange: "11 - 50",
+        title: "Design Team Lead",
+        multiLocaleTitle: {
+          en_US: "Design Team Lead",
+        },
+        multiLocaleCompanyName: {
+          en_US: "WTM REVA",
+        },
+        location: "",
+        description: "",
+        employmentType: "",
+        start: {
+          year: 2024,
+          month: 1,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+      },
+      {
+        companyName: "Dev/Track",
+        companyUsername: "dev-track",
+        companyURL: "https://www.linkedin.com/company/dev-track/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/D560BAQHEzm8xrywUIg/company-logo_400_400/0/1662306901995/dev_track_logo?e=1722470400&v=beta&t=DbnN8WPxVilE-MFDbQ5gOmPHu1mzb1RiS5FQN7S-xy8",
+        companyIndustry: "E-learning",
+        companyStaffCountRange: "11 - 50",
+        title: "Member",
+        multiLocaleTitle: {
+          en_US: "Member",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Dev/Track",
+        },
+        location: "",
+        description: "",
+        employmentType: "",
+        start: {
+          year: 2023,
+          month: 9,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+      },
+      {
+        companyName: "REVA HACK </> 2023",
+        companyUsername: "reva-hack-2022",
+        companyURL: "https://www.linkedin.com/company/reva-hack-2022/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/D4D0BAQHK2j2lGpoosg/company-logo_400_400/0/1693836648417/reva_hack_2022_logo?e=1722470400&v=beta&t=jpG8_ci4_wg-hsPxYmUVldutwHChHx-wAHO9jjnogI8",
+        companyIndustry: "E-learning",
+        companyStaffCountRange: "201 - 500",
+        title: "Organizing team member",
+        multiLocaleTitle: {
+          en_US: "Organizing team member",
+        },
+        multiLocaleCompanyName: {
+          en_US: "REVA HACK </> 2023",
+        },
+        location: "Bangalore Urban, Karnataka, India",
+        description: "",
+        employmentType: "Part-time",
+        start: {
+          year: 2023,
+          month: 8,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+      },
+      {
+        companyName: "SecIQ Technologies LLP",
+        companyUsername: "sec-iq",
+        companyURL: "https://www.linkedin.com/company/sec-iq/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C560BAQEnzhfn4WYCng/company-logo_400_400/0/1630663694946/sec_iq_logo?e=1722470400&v=beta&t=vI0-AuefIWVUKCbNa5mu0qjcA_e_HSo-_pNAAVbu8tU",
+        companyIndustry: "Information Technology & Services",
+        companyStaffCountRange: "11 - 50",
+        title: "Operations and Marketing ",
+        multiLocaleTitle: {
+          en_US: "Operations and Marketing ",
+        },
+        multiLocaleCompanyName: {
+          en_US: "SecIQ Technologies LLP",
+        },
+        location: "Bengaluru, Karnataka, India",
+        description: "",
+        employmentType: "Internship",
+        start: {
+          year: 2022,
+          month: 11,
+          day: 0,
+        },
+        end: {
+          year: 2023,
+          month: 3,
+          day: 0,
+        },
+      },
+    ],
+    fullPositions: [
+      {
+        companyName: "WTM REVA",
+        companyUsername: "wtm-reva",
+        companyURL: "https://www.linkedin.com/company/wtm-reva/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/D560BAQEyGDZcARZwRg/company-logo_400_400/0/1706386342129/wtm_reva_logo?e=1722470400&v=beta&t=kIsBZF3CnqXnQxJ21Ii9nTYQ6iM2efuKAfaCE3hJVSQ",
+        companyIndustry: "Computer Software",
+        companyStaffCountRange: "11 - 50",
+        title: "Design Team Lead",
+        multiLocaleTitle: {
+          en_US: "Design Team Lead",
+        },
+        multiLocaleCompanyName: {
+          en_US: "WTM REVA",
+        },
+        location: "",
+        description: "",
+        employmentType: "",
+        start: {
+          year: 2024,
+          month: 1,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+      },
+      {
+        companyName: "Dev/Track",
+        companyUsername: "dev-track",
+        companyURL: "https://www.linkedin.com/company/dev-track/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/D560BAQHEzm8xrywUIg/company-logo_400_400/0/1662306901995/dev_track_logo?e=1722470400&v=beta&t=DbnN8WPxVilE-MFDbQ5gOmPHu1mzb1RiS5FQN7S-xy8",
+        companyIndustry: "E-learning",
+        companyStaffCountRange: "11 - 50",
+        title: "Member",
+        multiLocaleTitle: {
+          en_US: "Member",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Dev/Track",
+        },
+        location: "",
+        description: "",
+        employmentType: "",
+        start: {
+          year: 2023,
+          month: 9,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+      },
+      {
+        companyName: "REVA HACK </> 2023",
+        companyUsername: "reva-hack-2022",
+        companyURL: "https://www.linkedin.com/company/reva-hack-2022/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/D4D0BAQHK2j2lGpoosg/company-logo_400_400/0/1693836648417/reva_hack_2022_logo?e=1722470400&v=beta&t=jpG8_ci4_wg-hsPxYmUVldutwHChHx-wAHO9jjnogI8",
+        companyIndustry: "E-learning",
+        companyStaffCountRange: "201 - 500",
+        title: "Organizing team member",
+        multiLocaleTitle: {
+          en_US: "Organizing team member",
+        },
+        multiLocaleCompanyName: {
+          en_US: "REVA HACK </> 2023",
+        },
+        location: "Bangalore Urban, Karnataka, India",
+        description: "",
+        employmentType: "Part-time",
+        start: {
+          year: 2023,
+          month: 8,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+      },
+      {
+        companyName: "SecIQ Technologies LLP",
+        companyUsername: "sec-iq",
+        companyURL: "https://www.linkedin.com/company/sec-iq/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C560BAQEnzhfn4WYCng/company-logo_400_400/0/1630663694946/sec_iq_logo?e=1722470400&v=beta&t=vI0-AuefIWVUKCbNa5mu0qjcA_e_HSo-_pNAAVbu8tU",
+        companyIndustry: "Information Technology & Services",
+        companyStaffCountRange: "11 - 50",
+        title: "Operations and Marketing ",
+        multiLocaleTitle: {
+          en_US: "Operations and Marketing ",
+        },
+        multiLocaleCompanyName: {
+          en_US: "SecIQ Technologies LLP",
+        },
+        location: "Bengaluru, Karnataka, India",
+        description: "",
+        employmentType: "Internship",
+        start: {
+          year: 2022,
+          month: 11,
+          day: 0,
+        },
+        end: {
+          year: 2023,
+          month: 3,
+          day: 0,
+        },
+      },
+    ],
+    skills: [
+      {
+        name: "Communication",
+        passedSkillAssessment: false,
+        endorsementsCount: 3,
+      },
+    ],
+    givenRecommendation: null,
+    givenRecommendationCount: 0,
+    receivedRecommendation: null,
+    receivedRecommendationCount: 0,
+    courses: null,
+    certifications: [
+      {
+        name: "Cyber security level 1",
+        start: {
+          year: 2022,
+          month: 12,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        authority: "EthicalByte",
+        company: {
+          name: "EthicalByte",
+          universalName: "ethicalbyte",
+          logo: "https://media.licdn.com/dms/image/C560BAQFSOpEGrRtmkQ/company-logo_200_200/0/1643867513104/ethicalbyte_logo?e=1722470400&v=beta&t=xa-VwD-8jdJykPZOXn9gArAd4f8NMH3f4dlKz1Uzm6c",
+          staffCountRange: {},
+          headquarter: {},
+        },
+        timePeriod: {
+          start: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+          end: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+        },
+      },
+    ],
+    honors: null,
+    volunteering: null,
+    supportedLocales: [
+      {
+        country: "US",
+        language: "en",
+      },
+    ],
+    multiLocaleFirstName: {
+      en: "Rida",
+    },
+    multiLocaleLastName: {
+      en: "Fathima",
+    },
+    multiLocaleHeadline: {
+      en: "Curious Learner",
+    },
+  },
+  {
+    urn: "ACoAAC7_mUAB7utd8IFbRXLoPDGrJL3Kz-ddThs",
+    username: "v-u-bushra-6280991a0",
+    firstName: "V U",
+    lastName: "Bushra",
+    isOpenToWork: false,
+    isHiring: false,
+    profilePicture:
+      "https://media.licdn.com/dms/image/D5603AQGF1VrcYqy3qw/profile-displayphoto-shrink_800_800/0/1703037133316?e=1720051200&v=beta&t=nW8BNCOZrPrkp2lZA6y_c-f0awaCVSujjb0y_A2EB3w",
+    summary:
+      "Altruistic Software Developer skilled at problem-solving.\nPutting forth high-quality technical and functional skills and a drive to achieve excellence.\nConstantly striving to maximize productivity and learn new technologies.\nMultilingual in English, Hindi, Urdu, Arabic, Telugu & Kannada.",
+    headline:
+      "SSE | Entrepreneur | Speaker | Educator | \nMentor @OSCode @topmate.io",
+    geo: {
+      country: "India",
+      city: "Bengaluru, Karnataka",
+      full: "Bengaluru, Karnataka, India",
+    },
+    languages: [
+      {
+        name: "Arabic",
+        proficiency: "PROFESSIONAL_WORKING",
+      },
+      {
+        name: "English",
+        proficiency: "FULL_PROFESSIONAL",
+      },
+      {
+        name: "Hindi",
+        proficiency: "FULL_PROFESSIONAL",
+      },
+      {
+        name: "Kannada",
+        proficiency: "LIMITED_WORKING",
+      },
+      {
+        name: "Telugu",
+        proficiency: "FULL_PROFESSIONAL",
+      },
+      {
+        name: "Urdu",
+        proficiency: "FULL_PROFESSIONAL",
+      },
+    ],
+    educations: [
+      {
+        start: {
+          year: 2018,
+          month: 0,
+          day: 0,
+        },
+        end: {
+          year: 2022,
+          month: 0,
+          day: 0,
+        },
+        fieldOfStudy: "Electronics and Instrumentation Engineering",
+        degree: "Bachelor of Engineering - BE",
+        grade: "",
+        schoolName: "Bangalore Institute Of Technology",
+        description: "",
+        activities: "",
+        url: "https://www.linkedin.com/school/bitsince1979/",
+        schoolId: "15138868",
+      },
+    ],
+    position: [
+      {
+        companyName: "topmate.io",
+        companyUsername: "topmate-io",
+        companyURL: "https://www.linkedin.com/company/topmate-io/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/D4D0BAQEY5HGKi1EAYg/company-logo_400_400/0/1684409035637/topmate_io_logo?e=1722470400&v=beta&t=e6E5fFr0F1rMge15BoqvTN9clUcbXhtNh4zKH_hr7Rg",
+        companyIndustry: "Computer Software",
+        companyStaffCountRange: "11 - 50",
+        title: "Mentor",
+        multiLocaleTitle: {
+          en_US: "Mentor",
+        },
+        multiLocaleCompanyName: {
+          en_US: "topmate.io",
+        },
+        location: "",
+        description: "",
+        employmentType: "Freelance",
+        start: {
+          year: 2024,
+          month: 2,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+      },
+      {
+        companyName: "OSCode",
+        companyUsername: "oscode",
+        companyURL: "https://www.linkedin.com/company/oscode/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C560BAQEYKJcT2CI0sA/company-logo_400_400/0/1649310777141?e=1722470400&v=beta&t=fxeKAbcOwWnd76zr0C_93RRZiJF-8KYNhE6gRhzswWc",
+        companyIndustry: "Higher Education",
+        companyStaffCountRange: "11 - 50",
+        title: "Mentor",
+        multiLocaleTitle: {
+          en_US: "Mentor",
+        },
+        multiLocaleCompanyName: {
+          en_US: "OSCode",
+        },
+        location: "",
+        description: "",
+        employmentType: "Freelance",
+        start: {
+          year: 2023,
+          month: 10,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+      },
+      {
+        companyName: "Birlasoft",
+        companyUsername: "birlasoft",
+        companyURL: "https://www.linkedin.com/company/birlasoft/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C4E0BAQFJ26tVfkJeKg/company-logo_400_400/0/1630606173796/birlasoft_logo?e=1722470400&v=beta&t=et_nw9ofcTB4v5velfeXjxO_9zYvrAJJJDE6Wiws8Ds",
+        companyIndustry: "Information Technology & Services",
+        companyStaffCountRange: "10001 - 0",
+        title: "Senior Software Engineer",
+        multiLocaleTitle: {
+          en_US: "Senior Software Engineer",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Birlasoft",
+        },
+        location: "Bengaluru, Karnataka, India",
+        description: "",
+        employmentType: "Full-time",
+        start: {
+          year: 2023,
+          month: 8,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+      },
+      {
+        companyName: "Ornate By Araina, Hayaa By Bushra",
+        companyUsername: "",
+        companyURL: "",
+        companyLogo: "",
+        companyIndustry: "",
+        companyStaffCountRange: "",
+        title: "Founder",
+        multiLocaleTitle: {
+          en_US: "Founder",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Ornate By Araina, Hayaa By Bushra",
+        },
+        location: "Bangalore Urban, Karnataka, India",
+        description: "",
+        employmentType: "Self-employed",
+        start: {
+          year: 2021,
+          month: 5,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+      },
+      {
+        companyName: "GE Digital",
+        companyUsername: "ge-digital",
+        companyURL: "https://www.linkedin.com/company/ge-digital/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C4E0BAQGKmAroiYd9TA/company-logo_400_400/0/1674660197334/ge_digital_logo?e=1722470400&v=beta&t=Sc2vjNm3nq0lnIGsD3gOZ6uArkK7TMq5IAM76iyqYYY",
+        companyIndustry: "Computer Software",
+        companyStaffCountRange: "1001 - 5000",
+        title: "Software Developer",
+        multiLocaleTitle: {
+          en_US: "Software Developer",
+        },
+        multiLocaleCompanyName: {
+          en_US: "GE Digital",
+        },
+        location: "Bengaluru, Karnataka, India",
+        description: "",
+        employmentType: "Full-time",
+        start: {
+          year: 2022,
+          month: 9,
+          day: 0,
+        },
+        end: {
+          year: 2023,
+          month: 8,
+          day: 0,
+        },
+      },
+      {
+        companyName: "GE Digital",
+        companyUsername: "ge-digital",
+        companyURL: "https://www.linkedin.com/company/ge-digital/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C4E0BAQGKmAroiYd9TA/company-logo_400_400/0/1674660197334/ge_digital_logo?e=1722470400&v=beta&t=Sc2vjNm3nq0lnIGsD3gOZ6uArkK7TMq5IAM76iyqYYY",
+        companyIndustry: "Computer Software",
+        companyStaffCountRange: "1001 - 5000",
+        title: "Software Developer Internship",
+        multiLocaleTitle: {
+          en_US: "Software Developer Internship",
+        },
+        multiLocaleCompanyName: {
+          en_US: "GE Digital",
+        },
+        location: "Bengaluru, Karnataka, India",
+        description: "",
+        employmentType: "Internship",
+        start: {
+          year: 2022,
+          month: 4,
+          day: 0,
+        },
+        end: {
+          year: 2022,
+          month: 8,
+          day: 0,
+        },
+      },
+      {
+        companyName: "Oyela",
+        companyUsername: "oyela-in",
+        companyURL: "https://www.linkedin.com/company/oyela-in/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C4E0BAQEUQg33VOrncQ/company-logo_400_400/0/1634309376682?e=1722470400&v=beta&t=GVyWGsEc6A2yqaJhbiiZOniPrmWFtGS2bcnx3tly0i4",
+        companyIndustry: "Computer Software",
+        companyStaffCountRange: "11 - 50",
+        title: "Intern",
+        multiLocaleTitle: {
+          en_US: "Intern",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Oyela",
+        },
+        location: "Remote",
+        description: "",
+        employmentType: "Internship",
+        start: {
+          year: 2022,
+          month: 1,
+          day: 0,
+        },
+        end: {
+          year: 2022,
+          month: 8,
+          day: 0,
+        },
+      },
+    ],
+    fullPositions: [
+      {
+        companyName: "topmate.io",
+        companyUsername: "topmate-io",
+        companyURL: "https://www.linkedin.com/company/topmate-io/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/D4D0BAQEY5HGKi1EAYg/company-logo_400_400/0/1684409035637/topmate_io_logo?e=1722470400&v=beta&t=e6E5fFr0F1rMge15BoqvTN9clUcbXhtNh4zKH_hr7Rg",
+        companyIndustry: "Computer Software",
+        companyStaffCountRange: "11 - 50",
+        title: "Mentor",
+        multiLocaleTitle: {
+          en_US: "Mentor",
+        },
+        multiLocaleCompanyName: {
+          en_US: "topmate.io",
+        },
+        location: "",
+        description: "",
+        employmentType: "Freelance",
+        start: {
+          year: 2024,
+          month: 2,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+      },
+      {
+        companyName: "OSCode",
+        companyUsername: "oscode",
+        companyURL: "https://www.linkedin.com/company/oscode/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C560BAQEYKJcT2CI0sA/company-logo_400_400/0/1649310777141?e=1722470400&v=beta&t=fxeKAbcOwWnd76zr0C_93RRZiJF-8KYNhE6gRhzswWc",
+        companyIndustry: "Higher Education",
+        companyStaffCountRange: "11 - 50",
+        title: "Mentor",
+        multiLocaleTitle: {
+          en_US: "Mentor",
+        },
+        multiLocaleCompanyName: {
+          en_US: "OSCode",
+        },
+        location: "",
+        description: "",
+        employmentType: "Freelance",
+        start: {
+          year: 2023,
+          month: 10,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+      },
+      {
+        companyName: "Birlasoft",
+        companyUsername: "birlasoft",
+        companyURL: "https://www.linkedin.com/company/birlasoft/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C4E0BAQFJ26tVfkJeKg/company-logo_400_400/0/1630606173796/birlasoft_logo?e=1722470400&v=beta&t=et_nw9ofcTB4v5velfeXjxO_9zYvrAJJJDE6Wiws8Ds",
+        companyIndustry: "Information Technology & Services",
+        companyStaffCountRange: "10001 - 0",
+        title: "Senior Software Engineer",
+        multiLocaleTitle: {
+          en_US: "Senior Software Engineer",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Birlasoft",
+        },
+        location: "Bengaluru, Karnataka, India",
+        description: "",
+        employmentType: "Full-time",
+        start: {
+          year: 2023,
+          month: 8,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+      },
+      {
+        companyName: "Ornate By Araina, Hayaa By Bushra",
+        companyUsername: "",
+        companyURL: "",
+        companyLogo: "",
+        companyIndustry: "",
+        companyStaffCountRange: "",
+        title: "Founder",
+        multiLocaleTitle: {
+          en_US: "Founder",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Ornate By Araina, Hayaa By Bushra",
+        },
+        location: "Bangalore Urban, Karnataka, India",
+        description: "",
+        employmentType: "Self-employed",
+        start: {
+          year: 2021,
+          month: 5,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+      },
+      {
+        companyName: "GE Digital",
+        companyUsername: "ge-digital",
+        companyURL: "https://www.linkedin.com/company/ge-digital/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C4E0BAQGKmAroiYd9TA/company-logo_400_400/0/1674660197334/ge_digital_logo?e=1722470400&v=beta&t=Sc2vjNm3nq0lnIGsD3gOZ6uArkK7TMq5IAM76iyqYYY",
+        companyIndustry: "Computer Software",
+        companyStaffCountRange: "1001 - 5000",
+        title: "Software Developer",
+        multiLocaleTitle: {
+          en_US: "Software Developer",
+        },
+        multiLocaleCompanyName: {
+          en_US: "GE Digital",
+        },
+        location: "Bengaluru, Karnataka, India",
+        description: "",
+        employmentType: "Full-time",
+        start: {
+          year: 2022,
+          month: 9,
+          day: 0,
+        },
+        end: {
+          year: 2023,
+          month: 8,
+          day: 0,
+        },
+      },
+      {
+        companyName: "GE Digital",
+        companyUsername: "ge-digital",
+        companyURL: "https://www.linkedin.com/company/ge-digital/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C4E0BAQGKmAroiYd9TA/company-logo_400_400/0/1674660197334/ge_digital_logo?e=1722470400&v=beta&t=Sc2vjNm3nq0lnIGsD3gOZ6uArkK7TMq5IAM76iyqYYY",
+        companyIndustry: "Computer Software",
+        companyStaffCountRange: "1001 - 5000",
+        title: "Software Developer Internship",
+        multiLocaleTitle: {
+          en_US: "Software Developer Internship",
+        },
+        multiLocaleCompanyName: {
+          en_US: "GE Digital",
+        },
+        location: "Bengaluru, Karnataka, India",
+        description: "",
+        employmentType: "Internship",
+        start: {
+          year: 2022,
+          month: 4,
+          day: 0,
+        },
+        end: {
+          year: 2022,
+          month: 8,
+          day: 0,
+        },
+      },
+      {
+        companyName: "Oyela",
+        companyUsername: "oyela-in",
+        companyURL: "https://www.linkedin.com/company/oyela-in/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C4E0BAQEUQg33VOrncQ/company-logo_400_400/0/1634309376682?e=1722470400&v=beta&t=GVyWGsEc6A2yqaJhbiiZOniPrmWFtGS2bcnx3tly0i4",
+        companyIndustry: "Computer Software",
+        companyStaffCountRange: "11 - 50",
+        title: "Intern",
+        multiLocaleTitle: {
+          en_US: "Intern",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Oyela",
+        },
+        location: "Remote",
+        description: "",
+        employmentType: "Internship",
+        start: {
+          year: 2022,
+          month: 1,
+          day: 0,
+        },
+        end: {
+          year: 2022,
+          month: 8,
+          day: 0,
+        },
+      },
+    ],
+    skills: [
+      {
+        name: "Oil and Gas",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Machine Learning",
+        passedSkillAssessment: false,
+        endorsementsCount: 3,
+      },
+      {
+        name: "Data Mining",
+        passedSkillAssessment: false,
+        endorsementsCount: 3,
+      },
+      {
+        name: "Cybersecurity",
+        passedSkillAssessment: false,
+        endorsementsCount: 3,
+      },
+      {
+        name: "Steganography",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Cryptography",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Kahoot",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Amazon S3",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Data Engineering",
+        passedSkillAssessment: false,
+        endorsementsCount: 3,
+      },
+      {
+        name: "Rally software",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "pandas",
+        passedSkillAssessment: false,
+        endorsementsCount: 3,
+      },
+      {
+        name: "Microsoft Power BI",
+        passedSkillAssessment: false,
+        endorsementsCount: 3,
+      },
+      {
+        name: "Sisense",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "AWS Lambda",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "AWS Glue",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "ETL Tools",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "C++",
+        passedSkillAssessment: false,
+        endorsementsCount: 2,
+      },
+      {
+        name: "Data Structures",
+        passedSkillAssessment: false,
+        endorsementsCount: 2,
+      },
+      {
+        name: "Algorithms",
+        passedSkillAssessment: false,
+        endorsementsCount: 2,
+      },
+      {
+        name: "Object-Oriented Programming (OOP)",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Database Management System (DBMS)",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Operating Systems",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Python (Programming Language)",
+        passedSkillAssessment: false,
+        endorsementsCount: 2,
+      },
+      {
+        name: "Communication",
+        passedSkillAssessment: false,
+        endorsementsCount: 2,
+      },
+      {
+        name: "Problem Solving",
+        passedSkillAssessment: false,
+        endorsementsCount: 2,
+      },
+      {
+        name: "Cloud Computing",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Computer Networking",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Big Data Analytics",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "C (Programming Language)",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Database Development",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "SQL",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Data Analysis",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "NumPy",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Amazon Web Services (AWS)",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Amazon Dynamodb",
+        passedSkillAssessment: false,
+      },
+    ],
+    givenRecommendation: null,
+    givenRecommendationCount: 0,
+    receivedRecommendation: null,
+    receivedRecommendationCount: 0,
+    courses: null,
+    certifications: [
+      {
+        name: "Introduction to Artificial Intelligence (AI)",
+        start: {
+          year: 2024,
+          month: 3,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        authority: "IBM",
+        company: {
+          staffCountRange: {},
+          headquarter: {},
+        },
+        timePeriod: {
+          start: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+          end: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+        },
+      },
+      {
+        name: "Introduction to Generative AI ",
+        start: {
+          year: 2024,
+          month: 3,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        authority: "Google Cloud",
+        company: {
+          staffCountRange: {},
+          headquarter: {},
+        },
+        timePeriod: {
+          start: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+          end: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+        },
+      },
+      {
+        name: "Oil & Gas Industry Operations and Markets",
+        start: {
+          year: 2024,
+          month: 2,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        authority: "Coursera",
+        company: {
+          name: "Coursera",
+          universalName: "coursera",
+          logo: "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_200_200/0/1630530042036/coursera_logo?e=1722470400&v=beta&t=KZto77kvbEtH6M68udcBAvvkRuSxawaW4u0W4tttkh8",
+          staffCountRange: {},
+          headquarter: {},
+        },
+        timePeriod: {
+          start: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+          end: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+        },
+      },
+      {
+        name: "AWS for Developers: DynamoDB",
+        start: {
+          year: 2023,
+          month: 6,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        authority: "LinkedIn",
+        company: {
+          name: "LinkedIn",
+          universalName: "linkedin",
+          logo: "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831590218/linkedin_logo?e=1722470400&v=beta&t=ok1EZ5yM9ShBmt5o02hTIIvErpgM1zXVW4E6I6pVyCM",
+          staffCountRange: {},
+          headquarter: {},
+        },
+        timePeriod: {
+          start: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+          end: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+        },
+      },
+      {
+        name: "Data Engineering with AWS Part 1",
+        start: {
+          year: 2023,
+          month: 6,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        authority: "LinkedIn",
+        company: {
+          name: "LinkedIn",
+          universalName: "linkedin",
+          logo: "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831590218/linkedin_logo?e=1722470400&v=beta&t=ok1EZ5yM9ShBmt5o02hTIIvErpgM1zXVW4E6I6pVyCM",
+          staffCountRange: {},
+          headquarter: {},
+        },
+        timePeriod: {
+          start: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+          end: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+        },
+      },
+      {
+        name: "Data Engineering with AWS Part 2",
+        start: {
+          year: 2023,
+          month: 6,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        authority: "LinkedIn",
+        company: {
+          name: "LinkedIn",
+          universalName: "linkedin",
+          logo: "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831590218/linkedin_logo?e=1722470400&v=beta&t=ok1EZ5yM9ShBmt5o02hTIIvErpgM1zXVW4E6I6pVyCM",
+          staffCountRange: {},
+          headquarter: {},
+        },
+        timePeriod: {
+          start: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+          end: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+        },
+      },
+      {
+        name: "Learning Python",
+        start: {
+          year: 2023,
+          month: 5,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        authority: "LinkedIn",
+        company: {
+          name: "LinkedIn",
+          universalName: "linkedin",
+          logo: "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831590218/linkedin_logo?e=1722470400&v=beta&t=ok1EZ5yM9ShBmt5o02hTIIvErpgM1zXVW4E6I6pVyCM",
+          staffCountRange: {},
+          headquarter: {},
+        },
+        timePeriod: {
+          start: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+          end: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+        },
+      },
+      {
+        name: "NumPy Essential Training: 1 Foundations of NumPy",
+        start: {
+          year: 2023,
+          month: 5,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        authority: "LinkedIn",
+        company: {
+          name: "LinkedIn",
+          universalName: "linkedin",
+          logo: "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831590218/linkedin_logo?e=1722470400&v=beta&t=ok1EZ5yM9ShBmt5o02hTIIvErpgM1zXVW4E6I6pVyCM",
+          staffCountRange: {},
+          headquarter: {},
+        },
+        timePeriod: {
+          start: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+          end: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+        },
+      },
+      {
+        name: "NumPy Essential Training: 2 MatPlotlib and Linear Algebra Capabilities",
+        start: {
+          year: 2023,
+          month: 5,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        authority: "LinkedIn",
+        company: {
+          name: "LinkedIn",
+          universalName: "linkedin",
+          logo: "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831590218/linkedin_logo?e=1722470400&v=beta&t=ok1EZ5yM9ShBmt5o02hTIIvErpgM1zXVW4E6I6pVyCM",
+          staffCountRange: {},
+          headquarter: {},
+        },
+        timePeriod: {
+          start: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+          end: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+        },
+      },
+      {
+        name: "Power BI Data Modeling with DAX",
+        start: {
+          year: 2023,
+          month: 5,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        authority: "LinkedIn",
+        company: {
+          name: "LinkedIn",
+          universalName: "linkedin",
+          logo: "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831590218/linkedin_logo?e=1722470400&v=beta&t=ok1EZ5yM9ShBmt5o02hTIIvErpgM1zXVW4E6I6pVyCM",
+          staffCountRange: {},
+          headquarter: {},
+        },
+        timePeriod: {
+          start: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+          end: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+        },
+      },
+      {
+        name: "SQL for Data Analysis",
+        start: {
+          year: 2023,
+          month: 5,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        authority: "LinkedIn",
+        company: {
+          name: "LinkedIn",
+          universalName: "linkedin",
+          logo: "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831590218/linkedin_logo?e=1722470400&v=beta&t=ok1EZ5yM9ShBmt5o02hTIIvErpgM1zXVW4E6I6pVyCM",
+          staffCountRange: {},
+          headquarter: {},
+        },
+        timePeriod: {
+          start: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+          end: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+        },
+      },
+      {
+        name: "SQL: Data Reporting and Analysis",
+        start: {
+          year: 2023,
+          month: 5,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        authority: "LinkedIn",
+        company: {
+          name: "LinkedIn",
+          universalName: "linkedin",
+          logo: "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831590218/linkedin_logo?e=1722470400&v=beta&t=ok1EZ5yM9ShBmt5o02hTIIvErpgM1zXVW4E6I6pVyCM",
+          staffCountRange: {},
+          headquarter: {},
+        },
+        timePeriod: {
+          start: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+          end: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+        },
+      },
+      {
+        name: "pandas Essential Training",
+        start: {
+          year: 2023,
+          month: 5,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        authority: "LinkedIn",
+        company: {
+          name: "LinkedIn",
+          universalName: "linkedin",
+          logo: "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831590218/linkedin_logo?e=1722470400&v=beta&t=ok1EZ5yM9ShBmt5o02hTIIvErpgM1zXVW4E6I6pVyCM",
+          staffCountRange: {},
+          headquarter: {},
+        },
+        timePeriod: {
+          start: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+          end: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+        },
+      },
+    ],
+    honors: null,
+    volunteering: null,
+    supportedLocales: [
+      {
+        country: "US",
+        language: "en",
+      },
+    ],
+    multiLocaleFirstName: {
+      en: "V U",
+    },
+    multiLocaleLastName: {
+      en: "Bushra",
+    },
+    multiLocaleHeadline: {
+      en: "SSE | Entrepreneur | Speaker | Educator | \nMentor @OSCode @topmate.io",
+    },
+  },
+  {
+    urn: "ACoAADozIEAB7bVJkB-Ez04V1Av8elWaVeIvSIM",
+    username: "koderinme",
+    firstName: "Gyanshu",
+    lastName: "raj",
+    isOpenToWork: false,
+    isHiring: false,
+    profilePicture:
+      "https://media.licdn.com/dms/image/D4D03AQH4Bn9lCIjXuw/profile-displayphoto-shrink_800_800/0/1702530809315?e=1720051200&v=beta&t=w4yLRyi2cJy0YPnsR_v1ZAc92ARcwbRj0BydEkO2ivE",
+    summary: "",
+    headline:
+      " React Native wizard crafting seamless “Cross Platform“ apps. Passionate about pixel-perfect UIs, blazing-fast performance, and user-centric design. Let's build something amazing together! ",
+    geo: {
+      country: "India",
+      city: "Bengaluru, Karnataka",
+      full: "Bengaluru, Karnataka, India",
+    },
+    languages: null,
+    educations: [
+      {
+        start: {
+          year: 2022,
+          month: 4,
+          day: 0,
+        },
+        end: {
+          year: 2025,
+          month: 6,
+          day: 0,
+        },
+        fieldOfStudy: "Computer Science",
+        degree: "BCA",
+        grade: "",
+        schoolName: "REVA University",
+        description:
+          "CourseWork : C , Digital Electronics , Analysis and Design of Algorithms, C++ , Data Structures , Database Management System, Java , Operating System , Mobile Computing \n\nFront end web development ",
+        activities:
+          "-President of Entrepreneurship Development Club \n-Active member of Reva Nest \n",
+        url: "https://www.linkedin.com/school/reva-university/",
+        schoolId: "9415817",
+      },
+    ],
+    position: [
+      {
+        companyName: "Trraco sports",
+        companyUsername: "",
+        companyURL: "",
+        companyLogo: "",
+        companyIndustry: "",
+        companyStaffCountRange: "",
+        title: "Software Developer",
+        multiLocaleTitle: {
+          en_US: "Software Developer",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Trraco sports",
+        },
+        location: "Bengaluru, Karnataka, India",
+        description: "",
+        employmentType: "Apprenticeship",
+        start: {
+          year: 2024,
+          month: 4,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+      },
+      {
+        companyName: "Gaadifix.in",
+        companyUsername: "gaadifix-in",
+        companyURL: "https://www.linkedin.com/company/gaadifix-in/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C4D0BAQHv_jm7r1WcYg/company-logo_400_400/0/1657907518119?e=1722470400&v=beta&t=vfkPEkqhu2vyk6vkZyNy6DRonah1Aw5thXfpkcJ6cBI",
+        companyIndustry: "Automotive",
+        companyStaffCountRange: "11 - 50",
+        title: "Social Media Intern",
+        multiLocaleTitle: {
+          en_US: "Social Media Intern",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Gaadifix.in",
+        },
+        location: "India",
+        description: "",
+        employmentType: "Internship",
+        start: {
+          year: 2023,
+          month: 9,
+          day: 0,
+        },
+        end: {
+          year: 2024,
+          month: 1,
+          day: 0,
+        },
+      },
+    ],
+    fullPositions: [
+      {
+        companyName: "Trraco sports",
+        companyUsername: "",
+        companyURL: "",
+        companyLogo: "",
+        companyIndustry: "",
+        companyStaffCountRange: "",
+        title: "Software Developer",
+        multiLocaleTitle: {
+          en_US: "Software Developer",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Trraco sports",
+        },
+        location: "Bengaluru, Karnataka, India",
+        description: "",
+        employmentType: "Apprenticeship",
+        start: {
+          year: 2024,
+          month: 4,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+      },
+      {
+        companyName: "Gaadifix.in",
+        companyUsername: "gaadifix-in",
+        companyURL: "https://www.linkedin.com/company/gaadifix-in/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C4D0BAQHv_jm7r1WcYg/company-logo_400_400/0/1657907518119?e=1722470400&v=beta&t=vfkPEkqhu2vyk6vkZyNy6DRonah1Aw5thXfpkcJ6cBI",
+        companyIndustry: "Automotive",
+        companyStaffCountRange: "11 - 50",
+        title: "Social Media Intern",
+        multiLocaleTitle: {
+          en_US: "Social Media Intern",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Gaadifix.in",
+        },
+        location: "India",
+        description: "",
+        employmentType: "Internship",
+        start: {
+          year: 2023,
+          month: 9,
+          day: 0,
+        },
+        end: {
+          year: 2024,
+          month: 1,
+          day: 0,
+        },
+      },
+    ],
+    skills: [
+      {
+        name: "Communication",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "React Native",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Tailwind CSS",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Java",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "C++",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "SQL",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "MongoDB",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "React.js",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "C (Programming Language)",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "JavaScript",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Cascading Style Sheets (CSS)",
+        passedSkillAssessment: false,
+        endorsementsCount: 2,
+      },
+      {
+        name: "HTML",
+        passedSkillAssessment: false,
+        endorsementsCount: 2,
+      },
+      {
+        name: "C#",
+        passedSkillAssessment: false,
+        endorsementsCount: 2,
+      },
+    ],
+    givenRecommendation: null,
+    givenRecommendationCount: 0,
+    receivedRecommendation: null,
+    receivedRecommendationCount: 0,
+    courses: null,
+    certifications: null,
+    honors: null,
+    volunteering: null,
+    supportedLocales: [
+      {
+        country: "US",
+        language: "en",
+      },
+    ],
+    multiLocaleFirstName: {
+      en: "Gyanshu",
+    },
+    multiLocaleLastName: {
+      en: "raj",
+    },
+    multiLocaleHeadline: {
+      en: " React Native wizard crafting seamless “Cross Platform“ apps. Passionate about pixel-perfect UIs, blazing-fast performance, and user-centric design. Let's build something amazing together! ",
+    },
+  },
 ];
 
-// hemanth [0]
-// ridha [1]
-// aqudas [2]
-// jashwant [3]
-//  shamili (big profile) [4]
+// hemanth 0
+// gowtham 1
+// aqudas 2
+// jashwant 3
+//  shamili (more data) [4]
 // uday (bba) student [5]
 // zain 6
+// mohan 7
+// meghana 8
+// ridha 9
+// vu bushra (entr) 10
+// gyanshu 11
