@@ -102,7 +102,7 @@ export default function WebPage({ params }: { params: { id: string } }) {
                                     key={data.schoolId + data.degree}
                                     className="flex space-x-3  justify-start items-center"
                                 >
-                                    <GraduationCap className="min-h-5 min-w-5 sm:min-h-8 sm:min-w-8 text-[#333333]" />
+                                    <GraduationCap className="min-h-8 min-w-8 text-[#333333]" />
                                     <div className="flex flex-col justify-center items-start ">
                                         <h3 className={`${poppinsBold.className} `}>
                                             {data.schoolName}

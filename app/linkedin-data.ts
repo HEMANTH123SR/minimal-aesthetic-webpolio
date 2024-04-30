@@ -2966,7 +2966,6 @@ export const linkedinData = [
       en: "Attended REVA University",
     },
   },
-
   {
     urn: "ACoAADyZBm4BqkuMOm4C8bUdhz9uRwiyickqIO0",
     username: "rida-fathima-a12589244",
