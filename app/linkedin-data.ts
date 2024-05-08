@@ -4717,6 +4717,193 @@ export const linkedinData = [
       en: "Student",
     },
   },
+  {
+    urn: "ACoAAD3mfYIBeT2Ee4hAmdF9VuRv_FCeLI3zuik",
+    username: "shadan-jamal-99696824b",
+    firstName: "Shadan",
+    lastName: "Jamal",
+    isOpenToWork: true,
+    isHiring: false,
+    profilePicture:
+      "https://media.licdn.com/dms/image/C5603AQFfb4cX6kfxaw/profile-displayphoto-shrink_800_800/0/1663139102619?e=1720656000&v=beta&t=rRMb8cKWhYfd5Vx-YJVWmT0_mxJ2RPSQGpWNtzUCc_U",
+    summary:
+      "An enthusiastic and driven Computer Science student currently pursuing a Bachelor of Computer Applications at St. Claret College in Bengaluru, India. Equipped with hands-on experience in web development technologies like HTML, CSS, Bootstrap, and JavaScript through an apprenticeship at Intrainz. Passionate about exploring and mastering cutting-edge technologies in the field of computer science. Seeking opportunities to further enhance practical skills and contribute to innovative projects. With a keen interest in programming languages such as Python, C, and Java, and a strong foundation in fundamental concepts, I am eager to expand my knowledge and apply it to solve real-world problems. Highly motivated and dedicated, I thrive in collaborative environments and possess excellent communication and problem-solving abilities. Committed to continuous learning and professional growth, I am actively seeking internships or entry-level positions in the software development or IT industry, where I can contribute my skills and learn from experienced professionals. My goal is to make a meaningful impact and drive positive change through technology.",
+    headline:
+      "Student - India | Currently pursuing Bachelor of Computer Applications in St. Claret College.",
+    geo: {
+      country: "India",
+      city: "Bengaluru, Karnataka",
+      full: "Bengaluru, Karnataka, India",
+    },
+    languages: null,
+    educations: [
+      {
+        start: {
+          year: 2022,
+          month: 0,
+          day: 0,
+        },
+        end: {
+          year: 2025,
+          month: 0,
+          day: 0,
+        },
+        fieldOfStudy: "Computer Science",
+        degree: "BCA",
+        grade: "",
+        schoolName: "St. Claret College - India",
+        description: "",
+        activities: "",
+        url: "https://www.linkedin.com/school/st-claret-college---india/",
+        schoolId: "7832576",
+      },
+      {
+        start: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        fieldOfStudy: "",
+        degree: "High School Diploma",
+        grade: "A",
+        schoolName: "St. Paul's College Lucknow",
+        description: "",
+        activities: "",
+        url: "",
+        schoolId: "",
+      },
+    ],
+    position: [
+      {
+        companyName: "Intrainz",
+        companyUsername: "intrainz",
+        companyURL: "https://www.linkedin.com/company/intrainz/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C560BAQG1_dwUfYD7dA/company-logo_400_400/0/1659769049442?e=1723075200&v=beta&t=oqdM1BsJdna33qlUeY7CBWal_SBtGUfqG9Fl3HxmBS4",
+        companyIndustry: "Higher Education",
+        companyStaffCountRange: "11 - 50",
+        title: "Web Development Trainee",
+        multiLocaleTitle: {
+          en_US: "Web Development Trainee",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Intrainz",
+        },
+        location: "Bengaluru, Karnataka, India",
+        description:
+          "Gained basic and in depth knowledge of HTML5, CSS3, Bootstrap and Javascript along with completion of 2 Frontend projects",
+        employmentType: "Apprenticeship",
+        start: {
+          year: 2023,
+          month: 11,
+          day: 0,
+        },
+        end: {
+          year: 2024,
+          month: 1,
+          day: 0,
+        },
+      },
+    ],
+    fullPositions: [
+      {
+        companyName: "Intrainz",
+        companyUsername: "intrainz",
+        companyURL: "https://www.linkedin.com/company/intrainz/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C560BAQG1_dwUfYD7dA/company-logo_400_400/0/1659769049442?e=1723075200&v=beta&t=oqdM1BsJdna33qlUeY7CBWal_SBtGUfqG9Fl3HxmBS4",
+        companyIndustry: "Higher Education",
+        companyStaffCountRange: "11 - 50",
+        title: "Web Development Trainee",
+        multiLocaleTitle: {
+          en_US: "Web Development Trainee",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Intrainz",
+        },
+        location: "Bengaluru, Karnataka, India",
+        description:
+          "Gained basic and in depth knowledge of HTML5, CSS3, Bootstrap and Javascript along with completion of 2 Frontend projects",
+        employmentType: "Apprenticeship",
+        start: {
+          year: 2023,
+          month: 11,
+          day: 0,
+        },
+        end: {
+          year: 2024,
+          month: 1,
+          day: 0,
+        },
+      },
+    ],
+    skills: [
+      {
+        name: "Tailwind CSS",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Python (Programming Language)",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Bootstrap (Framework)",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "JavaScript",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "C (Programming Language)",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Cascading Style Sheets (CSS)",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "HTML5",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Java",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "CRYENGINE",
+        passedSkillAssessment: false,
+      },
+    ],
+    givenRecommendation: null,
+    givenRecommendationCount: 0,
+    receivedRecommendation: null,
+    receivedRecommendationCount: 0,
+    courses: null,
+    certifications: null,
+    honors: null,
+    volunteering: null,
+    supportedLocales: [
+      {
+        country: "US",
+        language: "en",
+      },
+    ],
+    multiLocaleFirstName: {
+      en: "Shadan",
+    },
+    multiLocaleLastName: {
+      en: "Jamal",
+    },
+    multiLocaleHeadline: {
+      en: "Student - India | Currently pursuing Bachelor of Computer Applications in St. Claret College.",
+    },
+  },
 ];
 
 // hemanth 0
@@ -4731,4 +4918,5 @@ export const linkedinData = [
 // ridha 9
 // vu bushra (entr) 10
 // gyanshu 11
-// harsha
+// harsha 12
+// Shadan 13
