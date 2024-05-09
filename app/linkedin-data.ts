@@ -4904,6 +4904,738 @@ export const linkedinData = [
       en: "Student - India | Currently pursuing Bachelor of Computer Applications in St. Claret College.",
     },
   },
+  {
+    urn: "ACoAACEf7ooBm-UeMKnGkTSrTJ559hFhvr4Dlxs",
+    username: "riya-rapheal",
+    firstName: "Riya",
+    lastName: "Rapheal",
+    isOpenToWork: false,
+    isHiring: false,
+    profilePicture:
+      "https://media.licdn.com/dms/image/D5603AQHAiaxVzGDB4g/profile-displayphoto-shrink_800_800/0/1706114561364?e=1720656000&v=beta&t=vtRSHkLmFm4zPPMdXc5sQXR5fh9KhgR3_pm8J-J9ivM",
+    summary:
+      "An accomplished Validation Engineer with a diverse background working at esteemed companies like Intel, Microsoft, and Mavenir. Proficient in cloud computing technologies such as Azure, Kubernetes, and OpenStack, complemented by strong programming skills in Python. Adept at leveraging cutting-edge technologies to drive innovation and ensure product quality. Holds valuable certifications, including Microsoft Certified: Azure Fundamentals and AWS Academy Cloud Foundations. Possesses a Master's degree in Computer Science from Christ University, Bangalore, and a BCA from St. Claret College. Demonstrates a keen passion for continuous learning and professional growth in the ever-evolving tech landscape.",
+    headline: "Validation Engineer at Intel | Ex-Microsoft | Ex-Mavenir",
+    geo: {
+      country: "India",
+      city: "Bengaluru, Karnataka",
+      full: "Bengaluru, Karnataka, India",
+    },
+    languages: null,
+    educations: [
+      {
+        start: {
+          year: 2019,
+          month: 0,
+          day: 0,
+        },
+        end: {
+          year: 2021,
+          month: 0,
+          day: 0,
+        },
+        fieldOfStudy: "Master of Science",
+        degree: "Master's degree",
+        grade: "",
+        schoolName: "Christ University, Bangalore",
+        description: "",
+        activities: "",
+        url: "https://www.linkedin.com/school/christ-university-bangalore/",
+        schoolId: "15115108",
+      },
+      {
+        start: {
+          year: 2014,
+          month: 0,
+          day: 0,
+        },
+        end: {
+          year: 2017,
+          month: 0,
+          day: 0,
+        },
+        fieldOfStudy: "Computer Science",
+        degree: "BCA - Bachelor of Computer Application",
+        grade: "",
+        schoolName: "St. Claret College - India",
+        description: "",
+        activities: "",
+        url: "https://www.linkedin.com/school/st-claret-college---india/",
+        schoolId: "7832576",
+      },
+    ],
+    position: [
+      {
+        companyName: "Intel Corporation",
+        companyUsername: "intel-corporation",
+        companyURL: "https://www.linkedin.com/company/intel-corporation/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C560BAQGpvWtEtj9oTQ/company-logo_400_400/0/1630663244736/intel_corporation_logo?e=1723075200&v=beta&t=MpOwCq1gg3o1461iRDqfJ7XswHfbcwyBAxZpvTmBdAE",
+        companyIndustry: "Semiconductors",
+        companyStaffCountRange: "10001 - 0",
+        title: "Validation Engineer",
+        multiLocaleTitle: {
+          en_US: "Validation Engineer",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Intel Corporation",
+        },
+        location: "Bengaluru, Karnataka, India",
+        description: "",
+        employmentType: "Full-time",
+        start: {
+          year: 2024,
+          month: 1,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+      },
+      {
+        companyName: "Microsoft",
+        companyUsername: "microsoft",
+        companyURL: "https://www.linkedin.com/company/microsoft/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1630652622688/microsoft_logo?e=1723075200&v=beta&t=l8_ywexTapdsn4SwzPzH7MIW8NZainkYj3VZXGZEaeg",
+        companyIndustry: "Computer Software",
+        companyStaffCountRange: "10001 - 0",
+        title: "Software Development Engineer In Test",
+        multiLocaleTitle: {
+          en_US: "Software Development Engineer In Test",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Microsoft",
+        },
+        location: "",
+        description: "",
+        employmentType: "Full-time",
+        start: {
+          year: 2022,
+          month: 5,
+          day: 0,
+        },
+        end: {
+          year: 2024,
+          month: 1,
+          day: 0,
+        },
+      },
+      {
+        companyName: "Mavenir",
+        companyUsername: "mavenir",
+        companyURL: "https://www.linkedin.com/company/mavenir/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C4E0BAQHsM9rNpYSvqA/company-logo_400_400/0/1630622608771/mavenir_logo?e=1723075200&v=beta&t=YoHD9ngK2p68EwG0a5T7E2paXtRhlSLHgpVR1ThuYeU",
+        companyIndustry: "Computer Software",
+        companyStaffCountRange: "5001 - 10000",
+        title: "Member Of Technical Staff III",
+        multiLocaleTitle: {
+          en_US: "Member Of Technical Staff III",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Mavenir",
+        },
+        location: "Bengaluru, Karnataka, India",
+        description: "",
+        employmentType: "Full-time",
+        start: {
+          year: 2021,
+          month: 6,
+          day: 0,
+        },
+        end: {
+          year: 2022,
+          month: 4,
+          day: 0,
+        },
+      },
+      {
+        companyName: "Mavenir",
+        companyUsername: "mavenir",
+        companyURL: "https://www.linkedin.com/company/mavenir/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C4E0BAQHsM9rNpYSvqA/company-logo_400_400/0/1630622608771/mavenir_logo?e=1723075200&v=beta&t=YoHD9ngK2p68EwG0a5T7E2paXtRhlSLHgpVR1ThuYeU",
+        companyIndustry: "Computer Software",
+        companyStaffCountRange: "5001 - 10000",
+        title: "Member Of Technical Staff II",
+        multiLocaleTitle: {
+          en_US: "Member Of Technical Staff II",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Mavenir",
+        },
+        location: "Bangalore Urban, Karnataka, India",
+        description: "",
+        employmentType: "Full-time",
+        start: {
+          year: 2019,
+          month: 6,
+          day: 0,
+        },
+        end: {
+          year: 2021,
+          month: 5,
+          day: 0,
+        },
+      },
+      {
+        companyName: "Mavenir",
+        companyUsername: "mavenir",
+        companyURL: "https://www.linkedin.com/company/mavenir/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C4E0BAQHsM9rNpYSvqA/company-logo_400_400/0/1630622608771/mavenir_logo?e=1723075200&v=beta&t=YoHD9ngK2p68EwG0a5T7E2paXtRhlSLHgpVR1ThuYeU",
+        companyIndustry: "Computer Software",
+        companyStaffCountRange: "5001 - 10000",
+        title: "Member of Technical Staff I",
+        multiLocaleTitle: {
+          en_US: "Member of Technical Staff I",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Mavenir",
+        },
+        location: "Bengaluru, Karnataka, India",
+        description: "",
+        employmentType: "Full-time",
+        start: {
+          year: 2018,
+          month: 6,
+          day: 0,
+        },
+        end: {
+          year: 2019,
+          month: 5,
+          day: 0,
+        },
+      },
+      {
+        companyName: "Mavenir",
+        companyUsername: "mavenir",
+        companyURL: "https://www.linkedin.com/company/mavenir/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C4E0BAQHsM9rNpYSvqA/company-logo_400_400/0/1630622608771/mavenir_logo?e=1723075200&v=beta&t=YoHD9ngK2p68EwG0a5T7E2paXtRhlSLHgpVR1ThuYeU",
+        companyIndustry: "Computer Software",
+        companyStaffCountRange: "5001 - 10000",
+        title: "Intern",
+        multiLocaleTitle: {
+          en_US: "Intern",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Mavenir",
+        },
+        location: "Bangalore Urban, Karnataka, India",
+        description: "",
+        employmentType: "Full-time",
+        start: {
+          year: 2017,
+          month: 6,
+          day: 0,
+        },
+        end: {
+          year: 2018,
+          month: 5,
+          day: 0,
+        },
+      },
+    ],
+    fullPositions: [
+      {
+        companyName: "Intel Corporation",
+        companyUsername: "intel-corporation",
+        companyURL: "https://www.linkedin.com/company/intel-corporation/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C560BAQGpvWtEtj9oTQ/company-logo_400_400/0/1630663244736/intel_corporation_logo?e=1723075200&v=beta&t=MpOwCq1gg3o1461iRDqfJ7XswHfbcwyBAxZpvTmBdAE",
+        companyIndustry: "Semiconductors",
+        companyStaffCountRange: "10001 - 0",
+        title: "Validation Engineer",
+        multiLocaleTitle: {
+          en_US: "Validation Engineer",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Intel Corporation",
+        },
+        location: "Bengaluru, Karnataka, India",
+        description: "",
+        employmentType: "Full-time",
+        start: {
+          year: 2024,
+          month: 1,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+      },
+      {
+        companyName: "Microsoft",
+        companyUsername: "microsoft",
+        companyURL: "https://www.linkedin.com/company/microsoft/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1630652622688/microsoft_logo?e=1723075200&v=beta&t=l8_ywexTapdsn4SwzPzH7MIW8NZainkYj3VZXGZEaeg",
+        companyIndustry: "Computer Software",
+        companyStaffCountRange: "10001 - 0",
+        title: "Software Development Engineer In Test",
+        multiLocaleTitle: {
+          en_US: "Software Development Engineer In Test",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Microsoft",
+        },
+        location: "",
+        description: "",
+        employmentType: "Full-time",
+        start: {
+          year: 2022,
+          month: 5,
+          day: 0,
+        },
+        end: {
+          year: 2024,
+          month: 1,
+          day: 0,
+        },
+      },
+      {
+        companyName: "Mavenir",
+        companyUsername: "mavenir",
+        companyURL: "https://www.linkedin.com/company/mavenir/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C4E0BAQHsM9rNpYSvqA/company-logo_400_400/0/1630622608771/mavenir_logo?e=1723075200&v=beta&t=YoHD9ngK2p68EwG0a5T7E2paXtRhlSLHgpVR1ThuYeU",
+        companyIndustry: "Computer Software",
+        companyStaffCountRange: "5001 - 10000",
+        title: "Member Of Technical Staff III",
+        multiLocaleTitle: {
+          en_US: "Member Of Technical Staff III",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Mavenir",
+        },
+        location: "Bengaluru, Karnataka, India",
+        description: "",
+        employmentType: "Full-time",
+        start: {
+          year: 2021,
+          month: 6,
+          day: 0,
+        },
+        end: {
+          year: 2022,
+          month: 4,
+          day: 0,
+        },
+      },
+      {
+        companyName: "Mavenir",
+        companyUsername: "mavenir",
+        companyURL: "https://www.linkedin.com/company/mavenir/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C4E0BAQHsM9rNpYSvqA/company-logo_400_400/0/1630622608771/mavenir_logo?e=1723075200&v=beta&t=YoHD9ngK2p68EwG0a5T7E2paXtRhlSLHgpVR1ThuYeU",
+        companyIndustry: "Computer Software",
+        companyStaffCountRange: "5001 - 10000",
+        title: "Member Of Technical Staff II",
+        multiLocaleTitle: {
+          en_US: "Member Of Technical Staff II",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Mavenir",
+        },
+        location: "Bangalore Urban, Karnataka, India",
+        description: "",
+        employmentType: "Full-time",
+        start: {
+          year: 2019,
+          month: 6,
+          day: 0,
+        },
+        end: {
+          year: 2021,
+          month: 5,
+          day: 0,
+        },
+      },
+      {
+        companyName: "Mavenir",
+        companyUsername: "mavenir",
+        companyURL: "https://www.linkedin.com/company/mavenir/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C4E0BAQHsM9rNpYSvqA/company-logo_400_400/0/1630622608771/mavenir_logo?e=1723075200&v=beta&t=YoHD9ngK2p68EwG0a5T7E2paXtRhlSLHgpVR1ThuYeU",
+        companyIndustry: "Computer Software",
+        companyStaffCountRange: "5001 - 10000",
+        title: "Member of Technical Staff I",
+        multiLocaleTitle: {
+          en_US: "Member of Technical Staff I",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Mavenir",
+        },
+        location: "Bengaluru, Karnataka, India",
+        description: "",
+        employmentType: "Full-time",
+        start: {
+          year: 2018,
+          month: 6,
+          day: 0,
+        },
+        end: {
+          year: 2019,
+          month: 5,
+          day: 0,
+        },
+      },
+      {
+        companyName: "Mavenir",
+        companyUsername: "mavenir",
+        companyURL: "https://www.linkedin.com/company/mavenir/",
+        companyLogo:
+          "https://media.licdn.com/dms/image/C4E0BAQHsM9rNpYSvqA/company-logo_400_400/0/1630622608771/mavenir_logo?e=1723075200&v=beta&t=YoHD9ngK2p68EwG0a5T7E2paXtRhlSLHgpVR1ThuYeU",
+        companyIndustry: "Computer Software",
+        companyStaffCountRange: "5001 - 10000",
+        title: "Intern",
+        multiLocaleTitle: {
+          en_US: "Intern",
+        },
+        multiLocaleCompanyName: {
+          en_US: "Mavenir",
+        },
+        location: "Bangalore Urban, Karnataka, India",
+        description: "",
+        employmentType: "Full-time",
+        start: {
+          year: 2017,
+          month: 6,
+          day: 0,
+        },
+        end: {
+          year: 2018,
+          month: 5,
+          day: 0,
+        },
+      },
+    ],
+    skills: [
+      {
+        name: "Cloud Computing",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Kubernetes",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "OpenStack",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Python (Programming Language)",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "NFV",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Microsoft Azure",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Cloud Security",
+        passedSkillAssessment: false,
+      },
+    ],
+    givenRecommendation: null,
+    givenRecommendationCount: 0,
+    receivedRecommendation: null,
+    receivedRecommendationCount: 0,
+    courses: null,
+    certifications: [
+      {
+        name: "Microsoft Certified: Azure Fundamentals",
+        start: {
+          year: 2023,
+          month: 11,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        authority: "Microsoft",
+        company: {
+          name: "Microsoft",
+          universalName: "microsoft",
+          logo: "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_200_200/0/1630652622688/microsoft_logo?e=1723075200&v=beta&t=I0JQNx_M0gTi9QZpSEEb2fVrBL5geHnJ4xPJU-IPNpY",
+          staffCountRange: {},
+          headquarter: {},
+        },
+        timePeriod: {
+          start: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+          end: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+        },
+      },
+      {
+        name: "Microsoft Azure Fundamentals (AZ-900) Cert Prep: 1 Cloud Concepts",
+        start: {
+          year: 2023,
+          month: 10,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        authority: "LinkedIn",
+        company: {
+          name: "LinkedIn",
+          universalName: "linkedin",
+          logo: "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831590218/linkedin_logo?e=1723075200&v=beta&t=vONgzj8CWZ30n_f9Vh8a5JO1MptZ83yDBx7oHERhdrc",
+          staffCountRange: {},
+          headquarter: {},
+        },
+        timePeriod: {
+          start: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+          end: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+        },
+      },
+      {
+        name: "Microsoft Azure Fundamentals (AZ-900) Cert Prep: 2 Azure Architecture and Security",
+        start: {
+          year: 2023,
+          month: 10,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        authority: "LinkedIn",
+        company: {
+          name: "LinkedIn",
+          universalName: "linkedin",
+          logo: "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831590218/linkedin_logo?e=1723075200&v=beta&t=vONgzj8CWZ30n_f9Vh8a5JO1MptZ83yDBx7oHERhdrc",
+          staffCountRange: {},
+          headquarter: {},
+        },
+        timePeriod: {
+          start: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+          end: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+        },
+      },
+      {
+        name: "Python Quick Start (2019)",
+        start: {
+          year: 2023,
+          month: 9,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        authority: "LinkedIn",
+        company: {
+          name: "LinkedIn",
+          universalName: "linkedin",
+          logo: "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831590218/linkedin_logo?e=1723075200&v=beta&t=vONgzj8CWZ30n_f9Vh8a5JO1MptZ83yDBx7oHERhdrc",
+          staffCountRange: {},
+          headquarter: {},
+        },
+        timePeriod: {
+          start: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+          end: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+        },
+      },
+      {
+        name: "Learning Azure Data Explorer",
+        start: {
+          year: 2023,
+          month: 4,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        authority: "LinkedIn",
+        company: {
+          name: "LinkedIn",
+          universalName: "linkedin",
+          logo: "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831590218/linkedin_logo?e=1723075200&v=beta&t=vONgzj8CWZ30n_f9Vh8a5JO1MptZ83yDBx7oHERhdrc",
+          staffCountRange: {},
+          headquarter: {},
+        },
+        timePeriod: {
+          start: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+          end: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+        },
+      },
+      {
+        name: "AWS Academy Graduate - AWS Academy Cloud Foundations",
+        start: {
+          year: 2021,
+          month: 2,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        authority: "Amazon Web Services (AWS)",
+        company: {
+          name: "Amazon Web Services (AWS)",
+          universalName: "amazon-web-services",
+          logo: "https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_200_200/0/1670264051233/amazon_web_services_logo?e=1723075200&v=beta&t=sLa-l4Ya1Gq0Y_xePe9tpN2pvPGf2JdGbWli7pzM1iU",
+          staffCountRange: {},
+          headquarter: {},
+        },
+        timePeriod: {
+          start: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+          end: {
+            year: 0,
+            month: 0,
+            day: 0,
+          },
+        },
+      },
+    ],
+    honors: null,
+    volunteering: null,
+    supportedLocales: [
+      {
+        country: "US",
+        language: "en",
+      },
+    ],
+    multiLocaleFirstName: {
+      en: "Riya",
+    },
+    multiLocaleLastName: {
+      en: "Rapheal",
+    },
+    multiLocaleHeadline: {
+      en: "Validation Engineer at Intel | Ex-Microsoft | Ex-Mavenir",
+    },
+  },
+  {
+    urn: "ACoAAExxGtsB5vdMHYwWHh3FioaW7zxoLciUJfQ",
+    username: "hamsa-k-50b6002b9",
+    firstName: "Hamsa",
+    lastName: "K",
+    isOpenToWork: false,
+    isHiring: false,
+    profilePicture:
+      "https://media.licdn.com/dms/image/D5603AQEcrJLZZYI0ow/profile-displayphoto-shrink_800_800/0/1712584701948?e=1720656000&v=beta&t=zweGPW3rcQKCI61xGkImrV4D28ZVkEftofPZPeMqnXw",
+    summary:
+      "An ambitious and driven engineering student currently pursuing a Bachelor's degree in Electronics and Communication Engineering from MVJ College of Engineering, Bangalore, India. Equipped with a strong foundation in the fundamentals of electronics, communication systems, and digital signal processing. Passionate about exploring and mastering cutting-edge technologies in the field of electronics and communications. Possesses excellent analytical and problem-solving abilities, with a keen interest in developing innovative solutions to complex challenges. Committed to continuous learning and professional development, actively seeking internship opportunities to gain practical experience and exposure to the industry. Eager to contribute fresh perspectives and ideas while collaborating with experienced professionals. Ultimately aims to secure a challenging role in the electronics or telecommunications sector, where I can apply my knowledge and skills to drive meaningful impact.",
+    headline: "Attended MVJ College of Engineering, Bangalore, India",
+    geo: {
+      country: "India",
+      city: "Bengaluru, Karnataka",
+      full: "Bengaluru, Karnataka, India",
+    },
+    languages: null,
+    educations: [
+      {
+        start: {
+          year: 2022,
+          month: 0,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        fieldOfStudy: "Electronics and communication ",
+        degree: "Bachelor of Engineering - BE",
+        grade: "",
+        schoolName: "MVJ College of Engineering, Bangalore, India",
+        description: "",
+        activities: "",
+        url: "https://www.linkedin.com/school/mvj-college-of-engineering-bangalore-india/",
+        schoolId: "2817173",
+      },
+    ],
+    position: null,
+    fullPositions: null,
+    skills: null,
+    givenRecommendation: null,
+    givenRecommendationCount: 0,
+    receivedRecommendation: null,
+    receivedRecommendationCount: 0,
+    courses: null,
+    certifications: null,
+    honors: null,
+    volunteering: null,
+    supportedLocales: [
+      {
+        country: "US",
+        language: "en",
+      },
+    ],
+    multiLocaleFirstName: {
+      en: "Hamsa",
+    },
+    multiLocaleLastName: {
+      en: "K",
+    },
+    multiLocaleHeadline: {
+      en: "Attended MVJ College of Engineering, Bangalore, India",
+    },
+  },
 ];
 
 // hemanth 0
@@ -4920,3 +5652,11 @@ export const linkedinData = [
 // gyanshu 11
 // harsha 12
 // Shadan 13
+//Riya 14
+// hamsa 15
+
+  
+  
+  
+  
+  
