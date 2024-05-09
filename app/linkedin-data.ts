@@ -5636,6 +5636,222 @@ export const linkedinData = [
       en: "Attended MVJ College of Engineering, Bangalore, India",
     },
   },
+  {
+    urn: "ACoAAEC6PUcBIIyzH0xzKL06Gqjd_6h042Krobo",
+    username: "rakshithm2812",
+    firstName: "Rakshith",
+    lastName: "M",
+    isOpenToWork: true,
+    isHiring: false,
+    profilePicture:
+      "https://media.licdn.com/dms/image/D5603AQHixvO8QAFwMA/profile-displayphoto-shrink_800_800/0/1708565973542?e=1720656000&v=beta&t=TzTJ-cO7x9VF0tEwVJ9BOnMlOr1_j4_YczP98a_SfZg",
+    summary:
+      "A diligent and enthusiastic student currently pursuing a Bachelor of Technology in Electrical and Electronics Engineering at REVA University, Bengaluru, India. Equipped with a strong foundation in core engineering subjects, including power electronics, vehicle dynamics, sensors, and programming languages like C++ and Java. Skilled in utilizing tools and software such as MATLAB, Simulink, Keil uVision, and AutoCAD. Possesses a diverse range of interests, including cricket, chess, music, and travel. Committed to continuous learning and professional development, actively seeking opportunities to apply theoretical knowledge to real-world projects and gain practical experience. Driven by a passion for innovation and a desire to contribute to the advancement of the electrical and electronics engineering field.",
+    headline: "Student at REVA University",
+    geo: {
+      country: "India",
+      city: "Bengaluru, Karnataka",
+      full: "Bengaluru, Karnataka, India",
+    },
+    languages: null,
+    educations: [
+      {
+        start: {
+          year: 2020,
+          month: 6,
+          day: 0,
+        },
+        end: {
+          year: 2024,
+          month: 6,
+          day: 0,
+        },
+        fieldOfStudy: "Electrical and Electronics Engineering",
+        degree: "Bachelor of Technology - BTech",
+        grade: "7.6/10",
+        schoolName: "REVA University",
+        description: "",
+        activities: "",
+        url: "https://www.linkedin.com/school/reva-university/",
+        schoolId: "9415817",
+      },
+      {
+        start: {
+          year: 2018,
+          month: 6,
+          day: 0,
+        },
+        end: {
+          year: 2020,
+          month: 6,
+          day: 0,
+        },
+        fieldOfStudy: "PCME (Physics, Chemistry, Mathematics, Electronics)",
+        degree: "Pre-University",
+        grade: "",
+        schoolName: "Sri Chaitanya PU College",
+        description: "",
+        activities: "",
+        url: "",
+        schoolId: "",
+      },
+      {
+        start: {
+          year: 2017,
+          month: 5,
+          day: 0,
+        },
+        end: {
+          year: 2018,
+          month: 4,
+          day: 0,
+        },
+        fieldOfStudy: "",
+        degree: "SSLC (10th State board)",
+        grade: "",
+        schoolName: "Sri Vani Education Centre",
+        description: "",
+        activities: "",
+        url: "https://www.linkedin.com/school/sri-vani-education-centre/",
+        schoolId: "98612338",
+      },
+      {
+        start: {
+          year: 2020,
+          month: 0,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        fieldOfStudy: "Electrical and Electronics Engineering",
+        degree: "Bachelor of Technology - BTech",
+        grade: "",
+        schoolName: "REVA University",
+        description: "",
+        activities: "",
+        url: "https://www.linkedin.com/school/reva-university/",
+        schoolId: "9415817",
+      },
+    ],
+    position: null,
+    fullPositions: null,
+    skills: [
+      {
+        name: "MI Analysis",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Keil uVision",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Core Java",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "PLC Programming",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Vehicle Dynamics",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Burglar Alarm",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Crop Protection",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Kannada",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Cricket",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Technical Proficiency",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "AutoCAD",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Chess",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Music",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Travel",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Vehicle-to-grid technology",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Sensors",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "C++",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "English",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "MATLAB",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Simulink",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Power Electronics",
+        passedSkillAssessment: false,
+      },
+      {
+        name: "Microsoft Office",
+        passedSkillAssessment: false,
+      },
+    ],
+    givenRecommendation: null,
+    givenRecommendationCount: 0,
+    receivedRecommendation: null,
+    receivedRecommendationCount: 0,
+    courses: null,
+    certifications: null,
+    honors: null,
+    volunteering: null,
+    supportedLocales: [
+      {
+        country: "US",
+        language: "en",
+      },
+    ],
+    multiLocaleFirstName: {
+      en: "Rakshith",
+    },
+    multiLocaleLastName: {
+      en: "M",
+    },
+    multiLocaleHeadline: {
+      en: "Student at REVA University",
+    },
+  },
 ];
 
 // hemanth 0
@@ -5654,9 +5870,4 @@ export const linkedinData = [
 // Shadan 13
 //Riya 14
 // hamsa 15
-
-  
-  
-  
-  
-  
+// rak..
